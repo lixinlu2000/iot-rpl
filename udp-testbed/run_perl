@@ -1,0 +1,7 @@
+perl energy_analysis_v1.pl ./of0/of0-rx20 ./of0/of0-rx20-energy
+perl energy_analysis_v1.pl ./etx/etx-rx20 ./etx/etx-rx20-energy
+
+
+perl latency_v3.pl ./of0/of0-rx20 ./of0/of0-rx20-latency
+perl latency_v3.pl ./etx/etx-rx20 ./etx/etx-rx20-latency
+
