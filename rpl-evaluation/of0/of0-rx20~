@@ -1,0 +1,1123 @@
+300225:39:Rime started with address 0.18.116.39.0.39.39.39
+300882:34:Rime started with address 0.18.116.34.0.34.34.34
+308831:24:Rime started with address 0.18.116.24.0.24.24.24
+309525:39:MAC 00:12:74:27:00:27:27:27 Contiki-2.6-900-ga6227e1 started. Node id is set to 39.
+310183:34:MAC 00:12:74:22:00:22:22:22 Contiki-2.6-900-ga6227e1 started. Node id is set to 34.
+317634:39:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+318135:24:MAC 00:12:74:18:00:18:18:18 Contiki-2.6-900-ga6227e1 started. Node id is set to 24.
+318291:34:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+326244:24:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+328724:39:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7427:0027:2727
+329381:34:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7422:0022:2222
+330824:39:Starting 'UDP client process'
+331481:34:Starting 'UDP client process'
+333484:39:UDP client process started
+334142:34:UDP client process started
+337333:24:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7418:0018:1818
+338176:39:Client IPv6 addresses: aaaa::212:7427:27:2727
+338830:34:Client IPv6 addresses: aaaa::212:7422:22:2222
+339434:24:Starting 'UDP client process'
+341321:39:fe80::212:7427:27:2727
+341970:34:fe80::212:7422:22:2222
+342094:24:UDP client process started
+345984:8:Rime started with address 0.18.116.8.0.8.8.8
+346642:39:Created a connection with the server :: local/remote port 8765/5678
+346782:24:Client IPv6 addresses: aaaa::212:7418:18:1818
+347292:34:Created a connection with the server :: local/remote port 8765/5678
+349923:24:fe80::212:7418:18:1818
+354857:8:MAC 00:12:74:08:00:08:08:08 Contiki-2.6-900-ga6227e1 started. Node id is set to 8.
+355244:24:Created a connection with the server :: local/remote port 8765/5678
+362966:8:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+373695:8:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7408:0008:0808
+375797:8:Starting 'UDP client process'
+378387:8:UDP client process started
+380165:48:Rime started with address 0.18.116.48.0.48.48.48
+382805:8:Client IPv6 addresses: aaaa::212:7408:8:808
+385714:8:fe80::212:7408:8:808
+385769:60:Rime started with address 0.18.116.60.0.60.60.60
+389471:48:MAC 00:12:74:30:00:30:30:30 Contiki-2.6-900-ga6227e1 started. Node id is set to 48.
+391035:8:Created a connection with the server :: local/remote port 8765/5678
+395080:60:MAC 00:12:74:3c:00:3c:3c:3c Contiki-2.6-900-ga6227e1 started. Node id is set to 60.
+397581:48:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+398261:50:Rime started with address 0.18.116.50.0.50.50.50
+403188:60:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+407565:50:MAC 00:12:74:32:00:32:32:32 Contiki-2.6-900-ga6227e1 started. Node id is set to 50.
+408675:48:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7430:0030:3030
+410776:48:Starting 'UDP client process'
+413436:48:UDP client process started
+413617:55:Rime started with address 0.18.116.55.0.55.55.55
+414288:60:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:743c:003c:3c3c
+415503:28:Rime started with address 0.18.116.28.0.28.28.28
+415674:50:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+416389:60:Starting 'UDP client process'
+418128:48:Client IPv6 addresses: aaaa::212:7430:30:3030
+419049:60:UDP client process started
+421273:48:fe80::212:7430:30:3030
+422923:55:MAC 00:12:74:37:00:37:37:37 Contiki-2.6-900-ga6227e1 started. Node id is set to 55.
+423751:60:Client IPv6 addresses: aaaa::212:743c:3c:3c3c
+424809:28:MAC 00:12:74:1c:00:1c:1c:1c Contiki-2.6-900-ga6227e1 started. Node id is set to 28.
+426594:48:Created a connection with the server :: local/remote port 8765/5678
+426768:50:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7432:0032:3232
+426906:60:fe80::212:743c:3c:3c3c
+428868:50:Starting 'UDP client process'
+431032:55:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+431529:50:UDP client process started
+432228:60:Created a connection with the server :: local/remote port 8765/5678
+432918:28:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+436223:50:Client IPv6 addresses: aaaa::212:7432:32:3232
+439369:50:fe80::212:7432:32:3232
+442126:55:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7437:0037:3737
+444013:28:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:741c:001c:1c1c
+444226:55:Starting 'UDP client process'
+444690:50:Created a connection with the server :: local/remote port 8765/5678
+446114:28:Starting 'UDP client process'
+446887:55:UDP client process started
+448774:28:UDP client process started
+451585:55:Client IPv6 addresses: aaaa::212:7437:37:3737
+453470:28:Client IPv6 addresses: aaaa::212:741c:1c:1c1c
+454736:55:fe80::212:7437:37:3737
+456619:28:fe80::212:741c:1c:1c1c
+460057:55:Created a connection with the server :: local/remote port 8765/5678
+461940:28:Created a connection with the server :: local/remote port 8765/5678
+464267:11:Rime started with address 0.18.116.11.0.11.11.11
+473204:11:MAC 00:12:74:0b:00:0b:0b:0b Contiki-2.6-900-ga6227e1 started. Node id is set to 11.
+477467:31:Rime started with address 0.18.116.31.0.31.31.31
+481377:11:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+486776:31:MAC 00:12:74:1f:00:1f:1f:1f Contiki-2.6-900-ga6227e1 started. Node id is set to 31.
+487278:35:Rime started with address 0.18.116.35.0.35.35.35
+489793:54:Rime started with address 0.18.116.54.0.54.54.54
+491236:44:Rime started with address 0.18.116.44.0.44.44.44
+491630:45:Rime started with address 0.18.116.45.0.45.45.45
+492112:11:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740b:000b:0b0b
+494213:11:Starting 'UDP client process'
+494884:31:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+496581:35:MAC 00:12:74:23:00:23:23:23 Contiki-2.6-900-ga6227e1 started. Node id is set to 35.
+496804:11:UDP client process started
+499098:54:MAC 00:12:74:36:00:36:36:36 Contiki-2.6-900-ga6227e1 started. Node id is set to 54.
+500542:44:MAC 00:12:74:2c:00:2c:2c:2c Contiki-2.6-900-ga6227e1 started. Node id is set to 44.
+500936:45:MAC 00:12:74:2d:00:2d:2d:2d Contiki-2.6-900-ga6227e1 started. Node id is set to 45.
+501233:11:Client IPv6 addresses: aaaa::212:740b:b:b0b
+504151:11:fe80::212:740b:b:b0b
+504690:35:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+505980:31:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:741f:001f:1f1f
+507206:54:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+508081:31:Starting 'UDP client process'
+508650:44:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+509045:45:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+509337:2:Rime started with address 0.18.116.2.0.2.2.2
+509473:11:Created a connection with the server :: local/remote port 8765/5678
+510741:31:UDP client process started
+515441:31:Client IPv6 addresses: aaaa::212:741f:1f:1f1f
+515779:35:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7423:0023:2323
+517880:35:Starting 'UDP client process'
+517924:30:Rime started with address 0.18.116.30.0.30.30.30
+518212:2:MAC 00:12:74:02:00:02:02:02 Contiki-2.6-900-ga6227e1 started. Node id is set to 2.
+518300:54:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7436:0036:3636
+518594:31:fe80::212:741f:1f:1f1f
+519746:44:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:742c:002c:2c2c
+520140:45:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:742d:002d:2d2d
+520400:54:Starting 'UDP client process'
+520540:35:UDP client process started
+521846:44:Starting 'UDP client process'
+522241:45:Starting 'UDP client process'
+523061:54:UDP client process started
+523874:6:Rime started with address 0.18.116.6.0.6.6.6
+523916:31:Created a connection with the server :: local/remote port 8765/5678
+524507:44:UDP client process started
+524901:45:UDP client process started
+525230:35:Client IPv6 addresses: aaaa::212:7423:23:2323
+526322:2:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+527233:30:MAC 00:12:74:1e:00:1e:1e:1e Contiki-2.6-900-ga6227e1 started. Node id is set to 30.
+527757:54:Client IPv6 addresses: aaaa::212:7436:36:3636
+528373:35:fe80::212:7423:23:2323
+529203:44:Client IPv6 addresses: aaaa::212:742c:2c:2c2c
+529599:45:Client IPv6 addresses: aaaa::212:742d:2d:2d2d
+530906:54:fe80::212:7436:36:3636
+532352:44:fe80::212:742c:2c:2c2c
+532747:6:MAC 00:12:74:06:00:06:06:06 Contiki-2.6-900-ga6227e1 started. Node id is set to 6.
+532750:45:fe80::212:742d:2d:2d2d
+533694:35:Created a connection with the server :: local/remote port 8765/5678
+535341:30:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+536227:54:Created a connection with the server :: local/remote port 8765/5678
+537051:2:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7402:0002:0202
+537673:44:Created a connection with the server :: local/remote port 8765/5678
+538072:45:Created a connection with the server :: local/remote port 8765/5678
+539152:2:Starting 'UDP client process'
+540856:6:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+541742:2:UDP client process started
+546161:2:Client IPv6 addresses: aaaa::212:7402:2:202
+546437:30:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:741e:001e:1e1e
+548538:30:Starting 'UDP client process'
+549069:2:fe80::212:7402:2:202
+551198:30:UDP client process started
+551585:6:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7406:0006:0606
+553687:6:Starting 'UDP client process'
+554391:2:Created a connection with the server :: local/remote port 8765/5678
+555896:30:Client IPv6 addresses: aaaa::212:741e:1e:1e1e
+556277:6:UDP client process started
+559047:30:fe80::212:741e:1e:1e1e
+560698:6:Client IPv6 addresses: aaaa::212:7406:6:606
+563608:6:fe80::212:7406:6:606
+564369:30:Created a connection with the server :: local/remote port 8765/5678
+568930:6:Created a connection with the server :: local/remote port 8765/5678
+600313:18:Rime started with address 0.18.116.18.0.18.18.18
+602441:63:Rime started with address 0.18.116.63.0.63.63.63
+609615:18:MAC 00:12:74:12:00:12:12:12 Contiki-2.6-900-ga6227e1 started. Node id is set to 18.
+611752:63:MAC 00:12:74:3f:00:3f:3f:3f Contiki-2.6-900-ga6227e1 started. Node id is set to 63.
+617724:18:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+619861:63:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+621575:4:Rime started with address 0.18.116.4.0.4.4.4
+628813:18:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7412:0012:1212
+629135:33:Rime started with address 0.18.116.33.0.33.33.33
+630448:4:MAC 00:12:74:04:00:04:04:04 Contiki-2.6-900-ga6227e1 started. Node id is set to 4.
+630914:18:Starting 'UDP client process'
+630961:63:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:743f:003f:3f3f
+633061:63:Starting 'UDP client process'
+633574:18:UDP client process started
+635722:63:UDP client process started
+638262:18:Client IPv6 addresses: aaaa::212:7412:12:1212
+638439:33:MAC 00:12:74:21:00:21:21:21 Contiki-2.6-900-ga6227e1 started. Node id is set to 33.
+638558:4:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+640428:63:Client IPv6 addresses: aaaa::212:743f:3f:3f3f
+641403:18:fe80::212:7412:12:1212
+643587:63:fe80::212:743f:3f:3f3f
+646547:33:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+646724:18:Created a connection with the server :: local/remote port 8765/5678
+648909:63:Created a connection with the server :: local/remote port 8765/5678
+649287:4:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7404:0004:0404
+651263:1:Rime started with address 0.18.116.1.0.1.1.1
+651388:4:Starting 'UDP client process'
+653979:4:UDP client process started
+657637:33:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7421:0021:2121
+658397:4:Client IPv6 addresses: aaaa::212:7404:4:404
+659446:27:Rime started with address 0.18.116.27.0.27.27.27
+659739:33:Starting 'UDP client process'
+660138:1:MAC 00:12:74:01:00:01:01:01 Contiki-2.6-900-ga6227e1 started. Node id is set to 1.
+661305:4:fe80::212:7404:4:404
+662400:33:UDP client process started
+663006:41:Rime started with address 0.18.116.41.0.41.41.41
+666627:4:Created a connection with the server :: local/remote port 8765/5678
+667088:33:Client IPv6 addresses: aaaa::212:7421:21:2121
+668248:1:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+668752:27:MAC 00:12:74:1b:00:1b:1b:1b Contiki-2.6-900-ga6227e1 started. Node id is set to 27.
+670228:33:fe80::212:7421:21:2121
+672308:41:MAC 00:12:74:29:00:29:29:29 Contiki-2.6-900-ga6227e1 started. Node id is set to 41.
+674986:7:Rime started with address 0.18.116.7.0.7.7.7
+675549:33:Created a connection with the server :: local/remote port 8765/5678
+676860:27:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+678977:1:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7401:0001:0101
+680417:41:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+681078:1:Starting 'UDP server process'
+682544:1:UDP server started
+683861:7:MAC 00:12:74:07:00:07:07:07 Contiki-2.6-900-ga6227e1 started. Node id is set to 7.
+685545:47:Rime started with address 0.18.116.47.0.47.47.47
+686314:1:created a new RPL dag
+686362:40:Rime started with address 0.18.116.40.0.40.40.40
+687956:27:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:741b:001b:1b1b
+688326:53:Rime started with address 0.18.116.53.0.53.53.53
+690056:27:Starting 'UDP client process'
+690797:1:Server IPv6 addresses: aaaa::212:7401:1:101
+691507:41:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7429:0029:2929
+691971:7:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+692717:27:UDP client process started
+692928:1:aaaa::ff:fe00:1
+693607:41:Starting 'UDP client process'
+694851:47:MAC 00:12:74:2f:00:2f:2f:2f Contiki-2.6-900-ga6227e1 started. Node id is set to 47.
+695664:40:MAC 00:12:74:28:00:28:28:28 Contiki-2.6-900-ga6227e1 started. Node id is set to 40.
+695803:1:fe80::212:7401:1:101
+696267:41:UDP client process started
+697415:27:Client IPv6 addresses: aaaa::212:741b:1b:1b1b
+697631:53:MAC 00:12:74:35:00:35:35:35 Contiki-2.6-900-ga6227e1 started. Node id is set to 53.
+700566:27:fe80::212:741b:1b:1b1b
+700958:41:Client IPv6 addresses: aaaa::212:7429:29:2929
+701946:1:Created a server connection with remote address :: local/remote port 5678/8765
+702700:7:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7407:0007:0707
+702959:47:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+703773:40:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+704100:41:fe80::212:7429:29:2929
+704801:7:Starting 'UDP client process'
+705740:53:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+705887:27:Created a connection with the server :: local/remote port 8765/5678
+707391:7:UDP client process started
+709421:41:Created a connection with the server :: local/remote port 8765/5678
+711814:7:Client IPv6 addresses: aaaa::212:7407:7:707
+714055:47:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:742f:002f:2f2f
+714726:7:fe80::212:7407:7:707
+714862:40:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7428:0028:2828
+716155:47:Starting 'UDP client process'
+716833:53:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7435:0035:3535
+716963:40:Starting 'UDP client process'
+718816:47:UDP client process started
+718828:61:Rime started with address 0.18.116.61.0.61.61.61
+718934:53:Starting 'UDP client process'
+719623:40:UDP client process started
+720048:7:Created a connection with the server :: local/remote port 8765/5678
+721594:53:UDP client process started
+723516:47:Client IPv6 addresses: aaaa::212:742f:2f:2f2f
+723909:14:Rime started with address 0.18.116.14.0.14.14.14
+724311:40:Client IPv6 addresses: aaaa::212:7428:28:2828
+726291:53:Client IPv6 addresses: aaaa::212:7435:35:3535
+726669:47:fe80::212:742f:2f:2f2f
+727452:40:fe80::212:7428:28:2828
+728139:61:MAC 00:12:74:3d:00:3d:3d:3d Contiki-2.6-900-ga6227e1 started. Node id is set to 61.
+729439:53:fe80::212:7435:35:3535
+731990:47:Created a connection with the server :: local/remote port 8765/5678
+732773:40:Created a connection with the server :: local/remote port 8765/5678
+732849:14:MAC 00:12:74:0e:00:0e:0e:0e Contiki-2.6-900-ga6227e1 started. Node id is set to 14.
+734761:53:Created a connection with the server :: local/remote port 8765/5678
+736248:61:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+736363:15:Rime started with address 0.18.116.15.0.15.15.15
+738831:46:Rime started with address 0.18.116.46.0.46.46.46
+741022:14:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+741304:25:Rime started with address 0.18.116.25.0.25.25.25
+745301:15:MAC 00:12:74:0f:00:0f:0f:0f Contiki-2.6-900-ga6227e1 started. Node id is set to 15.
+746284:20:Rime started with address 0.18.116.20.0.20.20.20
+746745:16:Rime started with address 0.18.116.16.0.16.16.16
+747094:37:Rime started with address 0.18.116.37.0.37.37.37
+747347:61:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:743d:003d:3d3d
+748136:46:MAC 00:12:74:2e:00:2e:2e:2e Contiki-2.6-900-ga6227e1 started. Node id is set to 46.
+749448:61:Starting 'UDP client process'
+750604:25:MAC 00:12:74:19:00:19:19:19 Contiki-2.6-900-ga6227e1 started. Node id is set to 25.
+751757:14:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740e:000e:0e0e
+751826:62:Rime started with address 0.18.116.62.0.62.62.62
+752108:61:UDP client process started
+753474:15:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+753858:14:Starting 'UDP client process'
+755587:20:MAC 00:12:74:14:00:14:14:14 Contiki-2.6-900-ga6227e1 started. Node id is set to 20.
+756047:16:MAC 00:12:74:10:00:10:10:10 Contiki-2.6-900-ga6227e1 started. Node id is set to 16.
+756245:46:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+756394:37:MAC 00:12:74:25:00:25:25:25 Contiki-2.6-900-ga6227e1 started. Node id is set to 37.
+756449:14:UDP client process started
+756739:58:Rime started with address 0.18.116.58.0.58.58.58
+756813:61:Client IPv6 addresses: aaaa::212:743d:3d:3d3d
+758712:25:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+759970:61:fe80::212:743d:3d:3d3d
+760877:14:Client IPv6 addresses: aaaa::212:740e:e:e0e
+761137:62:MAC 00:12:74:3e:00:3e:3e:3e Contiki-2.6-900-ga6227e1 started. Node id is set to 62.
+763697:20:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+763796:14:fe80::212:740e:e:e0e
+764156:16:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+764209:15:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740f:000f:0f0f
+764503:37:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+765283:52:Rime started with address 0.18.116.52.0.52.52.52
+765292:61:Created a connection with the server :: local/remote port 8765/5678
+766050:58:MAC 00:12:74:3a:00:3a:3a:3a Contiki-2.6-900-ga6227e1 started. Node id is set to 58.
+766310:15:Starting 'UDP client process'
+767341:46:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:742e:002e:2e2e
+768900:15:UDP client process started
+769117:14:Created a connection with the server :: local/remote port 8765/5678
+769246:62:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+769441:46:Starting 'UDP client process'
+769802:25:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7419:0019:1919
+771905:25:Starting 'UDP client process'
+772102:46:UDP client process started
+773331:15:Client IPv6 addresses: aaaa::212:740f:f:f0f
+774158:58:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+774565:25:UDP client process started
+774588:52:MAC 00:12:74:34:00:34:34:34 Contiki-2.6-900-ga6227e1 started. Node id is set to 52.
+774786:20:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7414:0014:1414
+775246:16:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7410:0010:1010
+775593:37:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7425:0025:2525
+776252:15:fe80::212:740f:f:f0f
+776800:46:Client IPv6 addresses: aaaa::212:742e:2e:2e2e
+776887:20:Starting 'UDP client process'
+777346:16:Starting 'UDP client process'
+777693:37:Starting 'UDP client process'
+779255:25:Client IPv6 addresses: aaaa::212:7419:19:1919
+779547:20:UDP client process started
+779951:46:fe80::212:742e:2e:2e2e
+780006:16:UDP client process started
+780346:62:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:743e:003e:3e3e
+780353:37:UDP client process started
+781573:15:Created a connection with the server :: local/remote port 8765/5678
+782398:25:fe80::212:7419:19:1919
+782446:62:Starting 'UDP client process'
+782696:52:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+784235:20:Client IPv6 addresses: aaaa::212:7414:14:1414
+784692:16:Client IPv6 addresses: aaaa::212:7410:10:1010
+785043:37:Client IPv6 addresses: aaaa::212:7425:25:2525
+785107:62:UDP client process started
+785258:58:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:743a:003a:3a3a
+785272:46:Created a connection with the server :: local/remote port 8765/5678
+787358:58:Starting 'UDP client process'
+787376:20:fe80::212:7414:14:1414
+787719:25:Created a connection with the server :: local/remote port 8765/5678
+787835:16:fe80::212:7410:10:1010
+788186:37:fe80::212:7425:25:2525
+789811:62:Client IPv6 addresses: aaaa::212:743e:3e:3e3e
+790019:58:UDP client process started
+792697:20:Created a connection with the server :: local/remote port 8765/5678
+792968:62:fe80::212:743e:3e:3e3e
+793156:16:Created a connection with the server :: local/remote port 8765/5678
+793507:37:Created a connection with the server :: local/remote port 8765/5678
+793790:52:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7434:0034:3434
+794721:58:Client IPv6 addresses: aaaa::212:743a:3a:3a3a
+795891:52:Starting 'UDP client process'
+797876:58:fe80::212:743a:3a:3a3a
+798289:62:Created a connection with the server :: local/remote port 8765/5678
+798551:52:UDP client process started
+803198:58:Created a connection with the server :: local/remote port 8765/5678
+803245:52:Client IPv6 addresses: aaaa::212:7434:34:3434
+806392:52:fe80::212:7434:34:3434
+811713:52:Created a connection with the server :: local/remote port 8765/5678
+830285:10:Rime started with address 0.18.116.10.0.10.10.10
+839222:10:MAC 00:12:74:0a:00:0a:0a:0a Contiki-2.6-900-ga6227e1 started. Node id is set to 10.
+847395:10:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+858130:10:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740a:000a:0a0a
+860231:10:Starting 'UDP client process'
+862824:10:UDP client process started
+867250:10:Client IPv6 addresses: aaaa::212:740a:a:a0a
+868138:12:Rime started with address 0.18.116.12.0.12.12.12
+870167:10:fe80::212:740a:a:a0a
+875488:10:Created a connection with the server :: local/remote port 8765/5678
+877078:12:MAC 00:12:74:0c:00:0c:0c:0c Contiki-2.6-900-ga6227e1 started. Node id is set to 12.
+885251:12:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+895986:12:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740c:000c:0c0c
+898087:12:Starting 'UDP client process'
+899259:49:Rime started with address 0.18.116.49.0.49.49.49
+900679:12:UDP client process started
+905106:12:Client IPv6 addresses: aaaa::212:740c:c:c0c
+908023:12:fe80::212:740c:c:c0c
+908566:49:MAC 00:12:74:31:00:31:31:31 Contiki-2.6-900-ga6227e1 started. Node id is set to 49.
+910779:29:Rime started with address 0.18.116.29.0.29.29.29
+913344:12:Created a connection with the server :: local/remote port 8765/5678
+916676:49:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+920088:29:MAC 00:12:74:1d:00:1d:1d:1d Contiki-2.6-900-ga6227e1 started. Node id is set to 29.
+927770:49:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7431:0031:3131
+928196:29:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+929870:49:Starting 'UDP client process'
+932531:49:UDP client process started
+936861:22:Rime started with address 0.18.116.22.0.22.22.22
+937225:49:Client IPv6 addresses: aaaa::212:7431:31:3131
+939292:29:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:741d:001d:1d1d
+940372:49:fe80::212:7431:31:3131
+941392:29:Starting 'UDP client process'
+944053:29:UDP client process started
+945693:49:Created a connection with the server :: local/remote port 8765/5678
+946165:22:MAC 00:12:74:16:00:16:16:16 Contiki-2.6-900-ga6227e1 started. Node id is set to 22.
+948751:29:Client IPv6 addresses: aaaa::212:741d:1d:1d1d
+951902:29:fe80::212:741d:1d:1d1d
+954274:22:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+957223:29:Created a connection with the server :: local/remote port 8765/5678
+958924:51:Rime started with address 0.18.116.51.0.51.51.51
+962950:43:Rime started with address 0.18.116.43.0.43.43.43
+964268:26:Rime started with address 0.18.116.26.0.26.26.26
+965363:22:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7416:0016:1616
+967464:22:Starting 'UDP client process'
+968230:51:MAC 00:12:74:33:00:33:33:33 Contiki-2.6-900-ga6227e1 started. Node id is set to 51.
+968807:56:Rime started with address 0.18.116.56.0.56.56.56
+970124:22:UDP client process started
+972258:43:MAC 00:12:74:2b:00:2b:2b:2b Contiki-2.6-900-ga6227e1 started. Node id is set to 43.
+973577:26:MAC 00:12:74:1a:00:1a:1a:1a Contiki-2.6-900-ga6227e1 started. Node id is set to 26.
+974814:22:Client IPv6 addresses: aaaa::212:7416:16:1616
+976339:51:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+977957:22:fe80::212:7416:16:1616
+978112:56:MAC 00:12:74:38:00:38:38:38 Contiki-2.6-900-ga6227e1 started. Node id is set to 56.
+980366:43:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+981685:26:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+981697:9:Rime started with address 0.18.116.9.0.9.9.9
+983277:22:Created a connection with the server :: local/remote port 8765/5678
+986220:56:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+987433:51:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7433:0033:3333
+988331:5:Rime started with address 0.18.116.5.0.5.5.5
+989533:51:Starting 'UDP client process'
+990570:9:MAC 00:12:74:09:00:09:09:09 Contiki-2.6-900-ga6227e1 started. Node id is set to 9.
+991462:43:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:742b:002b:2b2b
+992193:51:UDP client process started
+992781:26:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:741a:001a:1a1a
+992861:42:Rime started with address 0.18.116.42.0.42.42.42
+992872:19:Rime started with address 0.18.116.19.0.19.19.19
+993563:43:Starting 'UDP client process'
+994881:26:Starting 'UDP client process'
+996223:43:UDP client process started
+996890:51:Client IPv6 addresses: aaaa::212:7433:33:3333
+997209:5:MAC 00:12:74:05:00:05:05:05 Contiki-2.6-900-ga6227e1 started. Node id is set to 5.
+997314:56:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7438:0038:3838
+997542:26:UDP client process started
+998680:9:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+999414:56:Starting 'UDP client process'
+1000038:51:fe80::212:7433:33:3333
+1000921:43:Client IPv6 addresses: aaaa::212:742b:2b:2b2b
+1002075:56:UDP client process started
+1002167:42:MAC 00:12:74:2a:00:2a:2a:2a Contiki-2.6-900-ga6227e1 started. Node id is set to 42.
+1002172:19:MAC 00:12:74:13:00:13:13:13 Contiki-2.6-900-ga6227e1 started. Node id is set to 19.
+1002238:26:Client IPv6 addresses: aaaa::212:741a:1a:1a1a
+1004072:43:fe80::212:742b:2b:2b2b
+1005319:5:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+1005359:51:Created a connection with the server :: local/remote port 8765/5678
+1005387:26:fe80::212:741a:1a:1a1a
+1006769:56:Client IPv6 addresses: aaaa::212:7438:38:3838
+1009394:43:Created a connection with the server :: local/remote port 8765/5678
+1009409:9:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7409:0009:0909
+1009915:56:fe80::212:7438:38:3838
+1010276:42:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+1010281:19:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+1010708:26:Created a connection with the server :: local/remote port 8765/5678
+1011510:9:Starting 'UDP client process'
+1014100:9:UDP client process started
+1015237:56:Created a connection with the server :: local/remote port 8765/5678
+1016048:5:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7405:0005:0505
+1018149:5:Starting 'UDP client process'
+1018521:9:Client IPv6 addresses: aaaa::212:7409:9:909
+1020739:5:UDP client process started
+1021370:19:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7413:0013:1313
+1021372:42:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:742a:002a:2a2a
+1021431:9:fe80::212:7409:9:909
+1023471:19:Starting 'UDP client process'
+1023472:42:Starting 'UDP client process'
+1025160:5:Client IPv6 addresses: aaaa::212:7405:5:505
+1026131:19:UDP client process started
+1026133:42:UDP client process started
+1026753:9:Created a connection with the server :: local/remote port 8765/5678
+1028070:5:fe80::212:7405:5:505
+1030821:19:Client IPv6 addresses: aaaa::212:7413:13:1313
+1030829:42:Client IPv6 addresses: aaaa::212:742a:2a:2a2a
+1033392:5:Created a connection with the server :: local/remote port 8765/5678
+1033964:19:fe80::212:7413:13:1313
+1033977:42:fe80::212:742a:2a:2a2a
+1039285:19:Created a connection with the server :: local/remote port 8765/5678
+1039299:42:Created a connection with the server :: local/remote port 8765/5678
+1061703:38:Rime started with address 0.18.116.38.0.38.38.38
+1071006:38:MAC 00:12:74:26:00:26:26:26 Contiki-2.6-900-ga6227e1 started. Node id is set to 38.
+1079115:38:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+1082853:17:Rime started with address 0.18.116.17.0.17.17.17
+1090204:38:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7426:0026:2626
+1092156:17:MAC 00:12:74:11:00:11:11:11 Contiki-2.6-900-ga6227e1 started. Node id is set to 17.
+1092305:38:Starting 'UDP client process'
+1094965:38:UDP client process started
+1099655:38:Client IPv6 addresses: aaaa::212:7426:26:2626
+1100266:17:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+1102798:38:fe80::212:7426:26:2626
+1108119:38:Created a connection with the server :: local/remote port 8765/5678
+1111355:17:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7411:0011:1111
+1113456:17:Starting 'UDP client process'
+1116116:17:UDP client process started
+1120804:17:Client IPv6 addresses: aaaa::212:7411:11:1111
+1123945:17:fe80::212:7411:11:1111
+1129266:17:Created a connection with the server :: local/remote port 8765/5678
+1155296:36:Rime started with address 0.18.116.36.0.36.36.36
+1157681:13:Rime started with address 0.18.116.13.0.13.13.13
+1159324:59:Rime started with address 0.18.116.59.0.59.59.59
+1164596:36:MAC 00:12:74:24:00:24:24:24 Contiki-2.6-900-ga6227e1 started. Node id is set to 36.
+1166620:13:MAC 00:12:74:0d:00:0d:0d:0d Contiki-2.6-900-ga6227e1 started. Node id is set to 13.
+1168637:59:MAC 00:12:74:3b:00:3b:3b:3b Contiki-2.6-900-ga6227e1 started. Node id is set to 59.
+1172561:3:Rime started with address 0.18.116.3.0.3.3.3
+1172705:36:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+1174793:13:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+1176746:59:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+1180477:21:Rime started with address 0.18.116.21.0.21.21.21
+1181438:3:MAC 00:12:74:03:00:03:03:03 Contiki-2.6-900-ga6227e1 started. Node id is set to 3.
+1183795:36:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7424:0024:2424
+1185528:13:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:740d:000d:0d0d
+1185895:36:Starting 'UDP client process'
+1187629:13:Starting 'UDP client process'
+1187846:59:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:743b:003b:3b3b
+1188555:36:UDP client process started
+1189548:3:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+1189780:21:MAC 00:12:74:15:00:15:15:15 Contiki-2.6-900-ga6227e1 started. Node id is set to 21.
+1189946:59:Starting 'UDP client process'
+1190220:13:UDP client process started
+1192607:59:UDP client process started
+1193243:36:Client IPv6 addresses: aaaa::212:7424:24:2424
+1194648:13:Client IPv6 addresses: aaaa::212:740d:d:d0d
+1196384:36:fe80::212:7424:24:2424
+1197311:59:Client IPv6 addresses: aaaa::212:743b:3b:3b3b
+1197567:13:fe80::212:740d:d:d0d
+1197888:21:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+1200277:3:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7403:0003:0303
+1200468:59:fe80::212:743b:3b:3b3b
+1201704:36:Created a connection with the server :: local/remote port 8765/5678
+1202378:3:Starting 'UDP client process'
+1202889:13:Created a connection with the server :: local/remote port 8765/5678
+1204969:3:UDP client process started
+1205790:59:Created a connection with the server :: local/remote port 8765/5678
+1208978:21:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7415:0015:1515
+1209389:3:Client IPv6 addresses: aaaa::212:7403:3:303
+1211078:21:Starting 'UDP client process'
+1212300:3:fe80::212:7403:3:303
+1213739:21:UDP client process started
+1217621:3:Created a connection with the server :: local/remote port 8765/5678
+1218429:21:Client IPv6 addresses: aaaa::212:7415:15:1515
+1219038:23:Rime started with address 0.18.116.23.0.23.23.23
+1221571:21:fe80::212:7415:15:1515
+1226892:21:Created a connection with the server :: local/remote port 8765/5678
+1228340:23:MAC 00:12:74:17:00:17:17:17 Contiki-2.6-900-ga6227e1 started. Node id is set to 23.
+1236449:23:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+1247539:23:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7417:0017:1717
+1249556:57:Rime started with address 0.18.116.57.0.57.57.57
+1249639:23:Starting 'UDP client process'
+1251518:32:Rime started with address 0.18.116.32.0.32.32.32
+1252299:23:UDP client process started
+1256992:23:Client IPv6 addresses: aaaa::212:7417:17:1717
+1258861:57:MAC 00:12:74:39:00:39:39:39 Contiki-2.6-900-ga6227e1 started. Node id is set to 57.
+1260136:23:fe80::212:7417:17:1717
+1260822:32:MAC 00:12:74:20:00:20:20:20 Contiki-2.6-900-ga6227e1 started. Node id is set to 32.
+1265457:23:Created a connection with the server :: local/remote port 8765/5678
+1266969:57:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+1268930:32:CSMA ContikiMAC, channel check rate 16 Hz, radio channel 26, CCA threshold -45
+1278063:57:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7439:0039:3939
+1280020:32:Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7420:0020:2020
+1280164:57:Starting 'UDP client process'
+1282122:32:Starting 'UDP client process'
+1282824:57:UDP client process started
+1284783:32:UDP client process started
+1287520:57:Client IPv6 addresses: aaaa::212:7439:39:3939
+1289469:32:Client IPv6 addresses: aaaa::212:7420:20:2020
+1290669:57:fe80::212:7439:39:3939
+1292607:32:fe80::212:7420:20:2020
+1295990:57:Created a connection with the server :: local/remote port 8765/5678
+1297929:32:Created a connection with the server :: local/remote port 8765/5678
+60354439:39: 7685 P 0.18 0 45635 1919808 9110 27111 0 24838 45635 1919808 9110 27111 0 24838 (radio 1.84% / 1.84% tx 0.46% / 0.46% listen 1.37% / 1.37%)
+60355067:34: 7685 P 0.18 0 36472 1929006 4636 27187 0 25483 36472 1929006 4636 27187 0 25483 (radio 1.61% / 1.61% tx 0.23% / 0.23% listen 1.38% / 1.38%)
+60363004:24: 7685 P 0.18 0 36041 1929746 6020 27279 0 24952 36041 1929746 6020 27279 0 24952 (radio 1.69% / 1.69% tx 0.30% / 0.30% listen 1.38% / 1.38%)
+60400766:8: 7685 P 0.18 0 31739 1934074 6201 26013 0 24127 31739 1934074 6201 26013 0 24127 (radio 1.63% / 1.63% tx 0.31% / 0.31% listen 1.32% / 1.32%)
+60434354:48: 7685 P 0.18 0 36636 1928996 6016 27119 0 25230 36636 1928996 6016 27119 0 25230 (radio 1.68% / 1.68% tx 0.30% / 0.30% listen 1.37% / 1.37%)
+60439936:60: 7685 P 0.18 0 35037 1930743 7559 26415 0 24648 35037 1930743 7559 26415 0 24648 (radio 1.72% / 1.72% tx 0.38% / 0.38% listen 1.34% / 1.34%)
+60452421:50: 7685 P 0.18 0 22740 1943035 2920 26084 0 24738 22740 1943035 2920 26084 0 24738 (radio 1.47% / 1.47% tx 0.14% / 0.14% listen 1.32% / 1.32%)
+60467806:55: 7685 P 0.18 0 33023 1932761 6020 27134 0 25390 33023 1932761 6020 27134 0 25390 (radio 1.68% / 1.68% tx 0.30% / 0.30% listen 1.38% / 1.38%)
+60469656:28: 7685 P 0.18 0 37549 1927949 6013 27266 0 25645 37549 1927949 6013 27266 0 25645 (radio 1.69% / 1.69% tx 0.30% / 0.30% listen 1.38% / 1.38%)
+60518450:11: 7685 P 0.18 0 38700 1927060 9111 27028 0 24471 38700 1927060 9111 27028 0 24471 (radio 1.83% / 1.83% tx 0.46% / 0.46% listen 1.37% / 1.37%)
+60531637:31: 7685 P 0.18 0 32479 1933312 4643 26689 0 25459 32479 1933312 4643 26689 0 25459 (radio 1.59% / 1.59% tx 0.23% / 0.23% listen 1.35% / 1.35%)
+60541428:35: 7685 P 0.18 0 38820 1926757 6011 27080 0 24688 38820 1926757 6011 27080 0 24688 (radio 1.68% / 1.68% tx 0.30% / 0.30% listen 1.37% / 1.37%)
+60543977:54: 7685 P 0.18 0 34150 1931643 6019 27148 0 25404 34150 1931643 6019 27148 0 25404 (radio 1.68% / 1.68% tx 0.30% / 0.30% listen 1.38% / 1.38%)
+60545428:44: 7685 P 0.18 0 37920 1927886 7568 27073 0 25349 37920 1927886 7568 27073 0 25349 (radio 1.76% / 1.76% tx 0.38% / 0.38% listen 1.37% / 1.37%)
+60545819:45: 7685 P 0.18 0 39768 1925924 7561 27802 0 25175 39768 1925924 7561 27802 0 25175 (radio 1.79% / 1.79% tx 0.38% / 0.38% listen 1.41% / 1.41%)
+60564094:2: 7685 P 0.18 0 32190 1933591 7565 26033 0 24991 32190 1933591 7565 26033 0 24991 (radio 1.70% / 1.70% tx 0.38% / 0.38% listen 1.32% / 1.32%)
+60572061:30: 7685 P 0.18 0 32851 1932946 4645 26419 0 24869 32851 1932946 4645 26419 0 24869 (radio 1.58% / 1.58% tx 0.23% / 0.23% listen 1.34% / 1.34%)
+60578626:6: 7685 P 0.18 0 38609 1927247 9121 27106 0 24623 38609 1927247 9121 27106 0 24623 (radio 1.84% / 1.84% tx 0.46% / 0.46% listen 1.37% / 1.37%)
+60654500:18: 7685 P 0.18 0 38991 1926573 6019 27877 0 25547 38991 1926573 6019 27877 0 25547 (radio 1.72% / 1.72% tx 0.30% / 0.30% listen 1.41% / 1.41%)
+60656626:63: 7685 P 0.18 0 35709 1930075 7560 27368 0 25301 35709 1930075 7560 27368 0 25301 (radio 1.77% / 1.77% tx 0.38% / 0.38% listen 1.39% / 1.39%)
+60676341:4: 7685 P 0.18 0 31766 1934009 6017 26526 0 24207 31766 1934009 6017 26526 0 24207 (radio 1.65% / 1.65% tx 0.30% / 0.30% listen 1.34% / 1.34%)
+60683287:33: 7685 P 0.18 0 32081 1933722 6020 26347 0 24874 32081 1933722 6020 26347 0 24874 (radio 1.64% / 1.64% tx 0.30% / 0.30% listen 1.34% / 1.34%)
+60713610:27: 7685 P 0.18 0 28903 1936851 4641 26705 0 25125 28903 1936851 4641 26705 0 25125 (radio 1.59% / 1.59% tx 0.23% / 0.23% listen 1.35% / 1.35%)
+60717190:41: 7685 P 0.18 0 41327 1924181 7572 27016 0 25417 41327 1924181 7572 27016 0 25417 (radio 1.75% / 1.75% tx 0.38% / 0.38% listen 1.37% / 1.37%)
+60729750:7: 7685 P 0.18 0 36805 1929038 7559 27079 0 25083 36805 1929038 7559 27079 0 25083 (radio 1.76% / 1.76% tx 0.38% / 0.38% listen 1.37% / 1.37%)
+60739707:47: 7685 P 0.18 0 35008 1930722 5809 26635 0 24727 35008 1930722 5809 26635 0 24727 (radio 1.65% / 1.65% tx 0.29% / 0.29% listen 1.35% / 1.35%)
+60740544:40: 7685 P 0.18 0 38292 1927544 5811 28049 0 26314 38292 1927544 5811 28049 0 26314 (radio 1.72% / 1.72% tx 0.29% / 0.29% listen 1.42% / 1.42%)
+60742495:53: 7685 P 0.18 0 37808 1927771 6198 27800 0 25754 37808 1927771 6198 27800 0 25754 (radio 1.72% / 1.72% tx 0.31% / 0.31% listen 1.41% / 1.41%)
+60772967:61: 7685 P 0.18 0 28925 1936868 4464 26375 0 24182 28925 1936868 4464 26375 0 24182 (radio 1.56% / 1.56% tx 0.22% / 0.22% listen 1.34% / 1.34%)
+60778082:14: 7685 P 0.18 0 39843 1925780 7555 27385 0 25201 39843 1925780 7555 27385 0 25201 (radio 1.77% / 1.77% tx 0.38% / 0.38% listen 1.39% / 1.39%)
+60790529:15: 7685 P 0.18 0 34093 1931763 6021 27209 0 25196 34093 1931763 6021 27209 0 25196 (radio 1.69% / 1.69% tx 0.30% / 0.30% listen 1.38% / 1.38%)
+60792993:46: 7685 P 0.18 0 33343 1932428 4644 28086 0 26758 33343 1932428 4644 28086 0 26758 (radio 1.66% / 1.66% tx 0.23% / 0.23% listen 1.42% / 1.42%)
+60795503:25: 7685 P 0.18 0 33745 1931975 6016 27571 0 25584 33745 1931975 6016 27571 0 25584 (radio 1.70% / 1.70% tx 0.30% / 0.30% listen 1.40% / 1.40%)
+60800468:20: 7685 P 0.18 0 41776 1923875 9116 27145 0 25110 41776 1923875 9116 27145 0 25110 (radio 1.84% / 1.84% tx 0.46% / 0.46% listen 1.38% / 1.38%)
+60800932:16: 7685 P 0.18 0 36578 1929198 7565 26684 0 24454 36578 1929198 7565 26684 0 24454 (radio 1.74% / 1.74% tx 0.38% / 0.38% listen 1.35% / 1.35%)
+60801270:37: 7685 P 0.18 0 40525 1925266 9107 26518 0 23999 40525 1925266 9107 26518 0 23999 (radio 1.81% / 1.81% tx 0.46% / 0.46% listen 1.34% / 1.34%)
+60805990:62: 7685 P 0.18 0 24720 1940994 4466 25308 0 24612 24720 1940994 4466 25308 0 24612 (radio 1.51% / 1.51% tx 0.22% / 0.22% listen 1.28% / 1.28%)
+60810932:58: 7685 P 0.18 0 33779 1931990 7567 25543 0 23816 33779 1931990 7567 25543 0 23816 (radio 1.68% / 1.68% tx 0.38% / 0.38% listen 1.29% / 1.29%)
+60819467:52: 7685 P 0.18 0 40264 1925324 7570 27978 0 24794 40264 1925324 7570 27978 0 24794 (radio 1.80% / 1.80% tx 0.38% / 0.38% listen 1.42% / 1.42%)
+60884473:10: 7685 P 0.18 0 36421 1929269 6017 28245 0 25106 36421 1929269 6017 28245 0 25106 (radio 1.74% / 1.74% tx 0.30% / 0.30% listen 1.43% / 1.43%)
+60922314:12: 7685 P 0.18 0 33631 1932041 4655 27724 0 25528 33631 1932041 4655 27724 0 25528 (radio 1.64% / 1.64% tx 0.23% / 0.23% listen 1.41% / 1.41%)
+60953412:49: 7685 P 0.18 0 31009 1934773 6009 27099 0 25626 31009 1934773 6009 27099 0 25626 (radio 1.68% / 1.68% tx 0.30% / 0.30% listen 1.37% / 1.37%)
+60964962:29: 7685 P 0.18 0 35153 1930673 6017 26650 0 24676 35153 1930673 6017 26650 0 24676 (radio 1.66% / 1.66% tx 0.30% / 0.30% listen 1.35% / 1.35%)
+60991049:22: 7685 P 0.18 0 35092 1930686 7571 26417 0 24715 35092 1930686 7571 26417 0 24715 (radio 1.72% / 1.72% tx 0.38% / 0.38% listen 1.34% / 1.34%)
+61013087:51: 7685 P 0.18 0 25981 1939671 4466 25451 0 24262 25981 1939671 4466 25451 0 24262 (radio 1.52% / 1.52% tx 0.22% / 0.22% listen 1.29% / 1.29%)
+61017128:43: 7685 P 0.18 0 35122 1930640 7564 26177 0 24734 35122 1930640 7564 26177 0 24734 (radio 1.71% / 1.71% tx 0.38% / 0.38% listen 1.33% / 1.33%)
+61018455:26: 7685 P 0.18 0 35950 1929702 4639 27403 0 25494 35950 1929702 4639 27403 0 25494 (radio 1.63% / 1.63% tx 0.23% / 0.23% listen 1.39% / 1.39%)
+61022987:56: 7685 P 0.18 0 30133 1935580 6026 26920 0 25303 30133 1935580 6026 26920 0 25303 (radio 1.67% / 1.67% tx 0.30% / 0.30% listen 1.36% / 1.36%)
+61036483:9: 7685 P 0.18 0 31581 1934220 6015 26617 0 24790 31581 1934220 6015 26617 0 24790 (radio 1.65% / 1.65% tx 0.30% / 0.30% listen 1.35% / 1.35%)
+61043106:5: 7685 P 0.18 0 31300 1934568 6022 26537 0 25074 31300 1934568 6022 26537 0 25074 (radio 1.65% / 1.65% tx 0.30% / 0.30% listen 1.34% / 1.34%)
+61047062:19: 7685 P 0.18 0 33257 1932531 4640 27356 0 25545 33257 1932531 4640 27356 0 25545 (radio 1.62% / 1.62% tx 0.23% / 0.23% listen 1.39% / 1.39%)
+61047070:42: 7685 P 0.18 0 37236 1928461 6191 27986 0 25520 37236 1928461 6191 27986 0 25520 (radio 1.73% / 1.73% tx 0.31% / 0.31% listen 1.42% / 1.42%)
+61115847:38: 7685 P 0.18 0 33440 1932335 4641 28044 0 26090 33440 1932335 4641 28044 0 26090 (radio 1.66% / 1.66% tx 0.23% / 0.23% listen 1.42% / 1.42%)
+61137031:17: 7685 P 0.18 0 41461 1924092 7569 27380 0 25148 41461 1924092 7569 27380 0 25148 (radio 1.77% / 1.77% tx 0.38% / 0.38% listen 1.39% / 1.39%)
+61209487:36: 7685 P 0.18 0 35553 1930231 6019 26075 0 24793 35553 1930231 6019 26075 0 24793 (radio 1.63% / 1.63% tx 0.30% / 0.30% listen 1.32% / 1.32%)
+61211835:13: 7685 P 0.18 0 38869 1926955 7567 28492 0 26018 38869 1926955 7567 28492 0 26018 (radio 1.83% / 1.83% tx 0.38% / 0.38% listen 1.44% / 1.44%)
+61213515:59: 7685 P 0.18 0 34350 1931478 6011 27373 0 25220 34350 1931478 6011 27373 0 25220 (radio 1.69% / 1.69% tx 0.30% / 0.30% listen 1.39% / 1.39%)
+61227338:3: 7685 P 0.18 0 31465 1934399 6023 26162 0 24778 31465 1934399 6023 26162 0 24778 (radio 1.63% / 1.63% tx 0.30% / 0.30% listen 1.33% / 1.33%)
+61234657:21: 7685 P 0.18 0 36938 1928773 6015 28155 0 25784 36938 1928773 6015 28155 0 25784 (radio 1.73% / 1.73% tx 0.30% / 0.30% listen 1.43% / 1.43%)
+61273230:23: 7685 P 0.18 0 34695 1931129 6194 26159 0 24317 34695 1931129 6194 26159 0 24317 (radio 1.64% / 1.64% tx 0.31% / 0.31% listen 1.33% / 1.33%)
+61303686:57: 7685 P 0.18 0 25713 1940062 4470 25742 0 24497 25713 1940062 4470 25742 0 24497 (radio 1.53% / 1.53% tx 0.22% / 0.22% listen 1.30% / 1.30%)
+61305683:32: 7685 P 0.18 0 44172 1921293 7570 28152 0 25873 44172 1921293 7570 28152 0 25873 (radio 1.81% / 1.81% tx 0.38% / 0.38% listen 1.43% / 1.43%)
+61531686:13:DATA send to 1: seqno: 1, len: 5, clock: 7729, rank: 1280, num_neighbors: 4 
+62132315:1:DATA recv from 13:  1   5   7729   1280   4  4, 7871
+63638126:4:DATA send to 1: seqno: 1, len: 5, clock: 8067, rank: 1536, num_neighbors: 3 
+64247436:1:DATA recv from 4:  1   5   8067   1536   3  5, 8142
+70267848:11:DATA send to 1: seqno: 1, len: 5, clock: 8936, rank: 1280, num_neighbors: 3 
+70866225:1:DATA recv from 11:  1   5   8936   1280   3  4, 8989
+72193595:57:DATA send to 1: seqno: 1, len: 5, clock: 9082, rank: 1792, num_neighbors: 2 
+73058484:37:DATA send to 1: seqno: 1, len: 5, clock: 9257, rank: 1280, num_neighbors: 3 
+73167606:1:DATA recv from 57:  1   5   9082   1792   2  6, 9283
+74355964:51:DATA send to 1: seqno: 1, len: 5, clock: 9396, rank: 2048, num_neighbors: 1 
+74573544:1:DATA recv from 37:  1   5   9257   1280   3  4, 9463
+74765391:63:DATA send to 1: seqno: 1, len: 5, clock: 9494, rank: 1792, num_neighbors: 3 
+74984800:62:DATA send to 1: seqno: 1, len: 5, clock: 9503, rank: 2048, num_neighbors: 1 
+75063818:1:DATA recv from 51:  1   5   9396   2048   1  7, 9526
+75621307:1:DATA recv from 62:  1   5   9503   2048   1  7, 9598
+75692912:40:DATA send to 1: seqno: 1, len: 5, clock: 9602, rank: 512, num_neighbors: 3 
+75742290:1:DATA recv from 40:  1   5   9602   512   3  1, 9613
+75859713:61:DATA send to 1: seqno: 1, len: 5, clock: 9619, rank: 1792, num_neighbors: 2 
+76095705:59:DATA send to 1: seqno: 1, len: 5, clock: 9593, rank: 1792, num_neighbors: 3 
+76199503:48:DATA send to 1: seqno: 1, len: 5, clock: 9706, rank: 1024, num_neighbors: 4 
+76224415:25:DATA send to 1: seqno: 1, len: 5, clock: 9663, rank: 768, num_neighbors: 3 
+76340310:1:DATA recv from 25:  1   5   9663   768   3  2, 9690
+76345681:27:DATA send to 1: seqno: 1, len: 5, clock: 9689, rank: 768, num_neighbors: 3 
+76354893:46:DATA send to 1: seqno: 1, len: 5, clock: 9680, rank: 1024, num_neighbors: 3 
+76569949:31:DATA send to 1: seqno: 1, len: 5, clock: 9741, rank: 768, num_neighbors: 3 
+76791344:10:DATA send to 1: seqno: 1, len: 5, clock: 9724, rank: 1536, num_neighbors: 4 
+76801735:29:DATA send to 1: seqno: 1, len: 5, clock: 9715, rank: 1280, num_neighbors: 3 
+76844552:1:DATA recv from 27:  1   5   9689   768   3  2, 9754
+76919447:54:DATA send to 1: seqno: 1, len: 5, clock: 9784, rank: 1024, num_neighbors: 3 
+77031232:12:DATA send to 1: seqno: 1, len: 5, clock: 9750, rank: 1024, num_neighbors: 4 
+77152379:1:DATA recv from 31:  1   5   9741   768   3  2, 9793
+77193061:1:DATA recv from 63:  1   5   9494   1792   3  6, 9799
+77201510:1:DATA recv from 46:  1   5   9680   1024   3  3, 9800
+77600657:56:DATA send to 1: seqno: 1, len: 5, clock: 9810, rank: 1536, num_neighbors: 4 
+77669091:1:DATA recv from 12:  1   5   9750   1024   4  3, 9860
+78383607:1:DATA recv from 10:  1   5   9724   1536   4  5, 9951
+78547728:1:DATA recv from 61:  1   5   9619   1792   2  6, 9972
+78916444:1:DATA recv from 48:  1   5   9706   1024   4  3, 10019
+78980522:1:DATA recv from 29:  1   5   9715   1280   3  4, 10027
+79539354:50:DATA send to 1: seqno: 1, len: 5, clock: 10131, rank: 1536, num_neighbors: 3 
+79625007:53:DATA send to 1: seqno: 1, len: 5, clock: 10105, rank: 1280, num_neighbors: 4 
+79735972:1:DATA recv from 54:  1   5   9784   1024   3  3, 10124
+79745716:1:DATA recv from 56:  1   5   9810   1536   4  5, 10125
+80094613:1:DATA recv from 53:  1   5   10105   1280   4  4, 10170
+80469147:1:DATA recv from 50:  1   5   10131   1536   3  5, 10218
+80679559:42:DATA send to 1: seqno: 1, len: 5, clock: 10201, rank: 1024, num_neighbors: 4 
+80681622:35:DATA send to 1: seqno: 1, len: 5, clock: 10266, rank: 768, num_neighbors: 4 
+80920705:1:DATA recv from 35:  1   5   10266   768   4  2, 10276
+81066678:7:DATA send to 1: seqno: 1, len: 5, clock: 10291, rank: 1792, num_neighbors: 3 
+81450345:1:DATA recv from 42:  1   5   10201   1024   4  3, 10344
+81534660:1:DATA recv from 7:  1   5   10291   1792   3  6, 10354
+88235130:23:DATA send to 1: seqno: 1, len: 5, clock: 11139, rank: 1280, num_neighbors: 3 
+88946014:1:DATA recv from 23:  1   5   11139   1280   3  4, 11303
+91287333:22:DATA send to 1: seqno: 1, len: 5, clock: 11566, rank: 1536, num_neighbors: 2 
+92098956:1:DATA recv from 22:  1   5   11566   1536   2  5, 11707
+93568132:58:DATA send to 1: seqno: 1, len: 5, clock: 11881, rank: 2048, num_neighbors: 2 
+94440672:1:DATA recv from 58:  1   5   11881   2048   2  7, 12006
+95642356:8:DATA send to 1: seqno: 1, len: 5, clock: 12199, rank: 2048, num_neighbors: 2 
+96159256:1:DATA recv from 8:  1   5   12199   2048   2  7, 12226
+98197456:3:DATA send to 1: seqno: 1, len: 5, clock: 12420, rank: 1792, num_neighbors: 3 
+98620931:1:DATA recv from 3:  1   5   12420   1792   3  6, 12541
+98690796:20:DATA send to 1: seqno: 1, len: 5, clock: 12538, rank: 1024, num_neighbors: 4 
+98840260:1:DATA recv from 20:  1   5   12538   1024   4  3, 12570
+100415576:6:DATA send to 1: seqno: 1, len: 5, clock: 12787, rank: 1536, num_neighbors: 3 
+101073895:5:DATA send to 1: seqno: 1, len: 5, clock: 12812, rank: 1280, num_neighbors: 3 
+101396108:1:DATA recv from 5:  1   5   12812   1280   3  4, 12897
+103156581:52:DATA send to 1: seqno: 1, len: 5, clock: 13107, rank: 1536, num_neighbors: 4 
+103496552:1:DATA recv from 52:  1   5   13107   1536   4  5, 13166
+105349470:9:DATA send to 1: seqno: 1, len: 5, clock: 13360, rank: 1792, num_neighbors: 3 
+105383978:2:DATA send to 1: seqno: 1, len: 5, clock: 13425, rank: 1792, num_neighbors: 3 
+105690840:24:DATA send to 1: seqno: 1, len: 5, clock: 13490, rank: 1024, num_neighbors: 4 
+106049514:1:DATA recv from 2:  1   5   13425   1792   3  6, 13492
+106111387:1:DATA recv from 9:  1   5   13360   1792   3  6, 13500
+106115816:45:DATA send to 1: seqno: 1, len: 5, clock: 13521, rank: 1280, num_neighbors: 4 
+106203756:28:DATA send to 1: seqno: 1, len: 5, clock: 13542, rank: 1024, num_neighbors: 4 
+106358543:1:DATA recv from 45:  1   5   13521   1280   4  4, 13532
+106401770:1:DATA recv from 28:  1   5   13542   1024   4  3, 13537
+106403328:47:DATA send to 1: seqno: 1, len: 5, clock: 13533, rank: 768, num_neighbors: 4 
+106476745:1:DATA recv from 24:  1   5   13490   1024   4  3, 13547
+106509227:30:DATA send to 1: seqno: 1, len: 5, clock: 13568, rank: 1024, num_neighbors: 3 
+106550334:26:DATA send to 1: seqno: 1, len: 5, clock: 13516, rank: 512, num_neighbors: 4 
+106581997:1:DATA recv from 26:  1   5   13516   512   4  1, 13560
+106700736:34:DATA send to 1: seqno: 1, len: 5, clock: 13620, rank: 512, num_neighbors: 4 
+106739197:1:DATA recv from 47:  1   5   13533   768   4  2, 13581
+106771264:1:DATA recv from 34:  1   5   13620   512   4  1, 13585
+106944045:55:DATA send to 1: seqno: 1, len: 5, clock: 13637, rank: 1280, num_neighbors: 4 
+107204154:15:DATA send to 1: seqno: 1, len: 5, clock: 13629, rank: 1792, num_neighbors: 3 
+107340183:1:DATA recv from 55:  1   5   13637   1280   4  4, 13657
+107445873:32:DATA send to 1: seqno: 1, len: 5, clock: 13594, rank: 512, num_neighbors: 4 
+107593221:1:DATA recv from 32:  1   5   13594   512   4  1, 13690
+107755902:36:DATA send to 1: seqno: 1, len: 5, clock: 13646, rank: 1024, num_neighbors: 3 
+107831333:1:DATA recv from 15:  1   5   13629   1792   3  6, 13720
+107866383:38:DATA send to 1: seqno: 1, len: 5, clock: 13672, rank: 1024, num_neighbors: 3 
+107866904:19:DATA send to 1: seqno: 1, len: 5, clock: 13681, rank: 768, num_neighbors: 4 
+108079219:49:DATA send to 1: seqno: 1, len: 5, clock: 13720, rank: 1280, num_neighbors: 4 
+108113298:17:DATA send to 1: seqno: 1, len: 5, clock: 13701, rank: 1280, num_neighbors: 4 
+108138742:1:DATA recv from 36:  1   5   13646   1024   3  3, 13760
+108187263:1:DATA recv from 19:  1   5   13681   768   4  2, 13766
+108259279:21:DATA send to 1: seqno: 1, len: 5, clock: 13707, rank: 1280, num_neighbors: 4 
+108401907:1:DATA recv from 30:  1   5   13568   1024   3  3, 13793
+108490458:1:DATA recv from 21:  1   5   13707   1280   4  4, 13805
+108830586:1:DATA recv from 49:  1   5   13720   1280   4  4, 13848
+109392362:1:DATA recv from 17:  1   5   13701   1280   4  4, 13920
+109452179:44:DATA send to 1: seqno: 1, len: 5, clock: 13948, rank: 1536, num_neighbors: 3 
+109602743:1:DATA recv from 38:  1   5   13672   1024   3  3, 13947
+111113936:16:DATA send to 1: seqno: 1, len: 5, clock: 14128, rank: 1536, num_neighbors: 3 
+112096550:1:DATA recv from 44:  1   5   13948   1536   3  5, 14266
+112254577:1:DATA recv from 16:  1   5   14128   1536   3  5, 14287
+113258868:43:DATA send to 1: seqno: 1, len: 5, clock: 14375, rank: 1280, num_neighbors: 3 
+113385998:33:DATA send to 1: seqno: 1, len: 5, clock: 14434, rank: 1536, num_neighbors: 3 
+114080042:1:DATA recv from 43:  1   5   14375   1280   3  4, 14520
+114770590:1:DATA recv from 33:  1   5   14434   1536   3  5, 14609
+115970749:60:DATA send to 1: seqno: 1, len: 5, clock: 14796, rank: 1536, num_neighbors: 3 
+116822693:39:DATA send to 1: seqno: 1, len: 5, clock: 14916, rank: 768, num_neighbors: 4 
+116957111:1:DATA recv from 39:  1   5   14916   768   4  2, 14888
+117762165:14:DATA send to 1: seqno: 1, len: 5, clock: 14982, rank: 1536, num_neighbors: 4 
+117953910:1:DATA recv from 60:  1   5   14796   1536   3  5, 15016
+118174562:1:DATA recv from 14:  1   5   14982   1536   4  5, 15044
+118599511:18:DATA send to 1: seqno: 1, len: 5, clock: 15105, rank: 1024, num_neighbors: 4 
+118810676:1:DATA recv from 18:  1   5   15105   1024   4  3, 15126
+119630794:41:DATA send to 1: seqno: 1, len: 5, clock: 15229, rank: 768, num_neighbors: 4 
+119953343:1:DATA recv from 41:  1   5   15229   768   4  2, 15272
+120355481:39: 15365 P 0.18 1 112399 3818539 18830 64919 0 55069 66761 1898731 9720 37808 0 30231 (radio 2.13% / 2.41% tx 0.47% / 0.49% listen 1.65% / 1.92%)
+120355704:34: 15365 P 0.18 1 90331 3840628 10027 59063 0 52842 53856 1911622 5391 31876 0 27359 (radio 1.75% / 1.89% tx 0.25% / 0.27% listen 1.50% / 1.62%)
+120363807:24: 15365 P 0.18 1 91988 3839390 15640 62112 0 54691 55944 1909644 9620 34833 0 29739 (radio 1.97% / 2.26% tx 0.39% / 0.48% listen 1.57% / 1.77%)
+120401819:8: 15365 P 0.18 1 77475 3854038 17604 56256 0 49361 45733 1919964 11403 30243 0 25234 (radio 1.87% / 2.11% tx 0.44% / 0.58% listen 1.43% / 1.53%)
+120435762:48: 15365 P 0.18 1 100982 3830135 16162 66800 0 56742 64343 1901139 10146 39681 0 31512 (radio 2.11% / 2.53% tx 0.41% / 0.51% listen 1.69% / 2.01%)
+120441069:60: 15365 P 0.18 1 91919 3839815 18464 58322 0 49332 56879 1909072 10905 31907 0 24684 (radio 1.95% / 2.17% tx 0.46% / 0.55% listen 1.48% / 1.62%)
+120453465:50: 15365 P 0.18 1 76926 3854716 17753 55285 0 49730 54183 1911681 14833 29201 0 24992 (radio 1.85% / 2.23% tx 0.45% / 0.75% listen 1.40% / 1.48%)
+120468849:55: 15365 P 0.18 1 97009 3834437 21910 62283 0 52640 63983 1901676 15890 35149 0 27250 (radio 2.14% / 2.59% tx 0.55% / 0.80% listen 1.58% / 1.78%)
+120470363:28: 15365 P 0.18 1 85106 3845880 12728 55499 0 52440 47554 1917931 6715 28233 0 26795 (radio 1.73% / 1.77% tx 0.32% / 0.34% listen 1.41% / 1.43%)
+120519062:11: 15365 P 0.18 1 82035 3849748 16632 57454 0 51441 43332 1922688 7521 30426 0 26970 (radio 1.88% / 1.93% tx 0.42% / 0.38% listen 1.46% / 1.54%)
+120532286:31: 15365 P 0.18 1 90483 3840979 13508 62329 0 55530 58001 1907667 8865 35640 0 30071 (radio 1.92% / 2.26% tx 0.34% / 0.45% listen 1.58% / 1.81%)
+120542094:35: 15365 P 0.18 1 86506 3844581 11271 58331 0 52772 47683 1917824 5260 31251 0 28084 (radio 1.77% / 1.85% tx 0.28% / 0.26% listen 1.48% / 1.58%)
+120545106:54: 15365 P 0.18 1 91977 3839786 18174 64615 0 54151 57824 1908143 12155 37467 0 28747 (radio 2.10% / 2.52% tx 0.46% / 0.61% listen 1.64% / 1.90%)
+120546096:44: 15365 P 0.18 1 76755 3855035 11517 53458 0 49922 38832 1927149 3949 26385 0 24573 (radio 1.65% / 1.54% tx 0.29% / 0.20% listen 1.35% / 1.34%)
+120546489:45: 15365 P 0.18 1 93380 3837801 14304 59930 0 53766 53609 1911877 6743 32128 0 28591 (radio 1.88% / 1.97% tx 0.36% / 0.34% listen 1.52% / 1.63%)
+120564743:2: 15365 P 0.18 1 77825 3853892 13550 55403 0 51393 45632 1920301 5985 29370 0 26402 (radio 1.75% / 1.79% tx 0.34% / 0.30% listen 1.40% / 1.49%)
+120573126:30: 15365 P 0.18 1 80574 3851206 15103 55103 0 49513 47720 1918260 10458 28684 0 24644 (radio 1.78% / 1.99% tx 0.38% / 0.53% listen 1.40% / 1.45%)
+120579658:6: 15365 P 0.18 1 96767 3835074 22801 58633 0 49475 58155 1907827 13680 31527 0 24852 (radio 2.07% / 2.29% tx 0.57% / 0.69% listen 1.49% / 1.60%)
+120655058:18: 15365 P 0.18 1 94051 3836999 14041 60003 0 52527 55057 1910426 8022 32126 0 26980 (radio 1.88% / 2.04% tx 0.35% / 0.40% listen 1.52% / 1.63%)
+120657274:63: 15365 P 0.18 1 70699 3861100 10145 53582 0 50602 34987 1931025 2585 26214 0 25301 (radio 1.62% / 1.46% tx 0.25% / 0.13% listen 1.36% / 1.33%)
+120677334:4: 15365 P 0.18 1 80381 3851418 16811 55833 0 50042 48612 1917409 10794 29307 0 25835 (radio 1.84% / 2.03% tx 0.42% / 0.54% listen 1.42% / 1.49%)
+120683886:33: 15365 P 0.18 1 80951 3850821 14702 57200 0 50603 48867 1917099 8682 30853 0 25729 (radio 1.82% / 2.01% tx 0.37% / 0.44% listen 1.45% / 1.56%)
+120716170:27: 15365 P 0.18 1 86893 3844877 19431 57760 0 49623 57987 1908026 14790 31055 0 24498 (radio 1.96% / 2.33% tx 0.49% / 0.75% listen 1.46% / 1.57%)
+120718195:41: 15365 P 0.18 1 99407 3831580 17783 62396 0 54268 58077 1907399 10211 35380 0 28851 (radio 2.03% / 2.31% tx 0.45% / 0.51% listen 1.58% / 1.80%)
+120730429:7: 15365 P 0.18 1 76837 3855015 12559 58178 0 53632 40029 1925977 5000 31099 0 28549 (radio 1.79% / 1.83% tx 0.31% / 0.25% listen 1.47% / 1.58%)
+120741244:47: 15365 P 0.18 1 128148 3803097 25258 74149 0 54910 93137 1872375 19449 47514 0 30183 (radio 2.52% / 3.40% tx 0.64% / 0.98% listen 1.88% / 2.41%)
+120742375:40: 15365 P 0.18 1 144285 3787177 21275 85755 0 63687 105990 1859633 15464 57706 0 37373 (radio 2.72% / 3.72% tx 0.54% / 0.78% listen 2.18% / 2.93%)
+120743180:53: 15365 P 0.18 1 95020 3836079 14724 61536 0 53280 57209 1908308 8526 33736 0 27526 (radio 1.93% / 2.15% tx 0.37% / 0.43% listen 1.56% / 1.71%)
+120773379:61: 15365 P 0.18 1 61531 3870140 8162 53098 0 50252 32603 1933272 3698 26723 0 26070 (radio 1.55% / 1.54% tx 0.20% / 0.18% listen 1.35% / 1.35%)
+120779100:14: 15365 P 0.18 1 99393 3831724 19956 59898 0 52353 59547 1905944 12401 32513 0 27152 (radio 2.03% / 2.28% tx 0.50% / 0.63% listen 1.52% / 1.65%)
+120791217:15: 15365 P 0.18 1 81071 3850759 11870 57323 0 51776 46975 1918996 5849 30114 0 26580 (radio 1.75% / 1.82% tx 0.30% / 0.29% listen 1.45% / 1.53%)
+120793387:46: 15365 P 0.18 1 68615 3863164 7059 57229 0 54512 35269 1930736 2415 29143 0 27754 (radio 1.63% / 1.60% tx 0.17% / 0.12% listen 1.45% / 1.48%)
+120796586:25: 15365 P 0.18 1 91879 3839713 16256 60775 0 50693 58131 1907738 10240 33204 0 25109 (radio 1.95% / 2.20% tx 0.41% / 0.52% listen 1.54% / 1.68%)
+120801152:20: 15365 P 0.18 1 94932 3836215 16902 58287 0 51882 53153 1912340 7786 31142 0 26772 (radio 1.91% / 1.98% tx 0.42% / 0.39% listen 1.48% / 1.58%)
+120801877:37: 15365 P 0.18 1 76881 3854918 12376 54810 0 51619 36353 1929652 3269 28292 0 27620 (radio 1.70% / 1.60% tx 0.31% / 0.16% listen 1.39% / 1.43%)
+120801919:16: 15365 P 0.18 1 85843 3845907 18377 57109 0 50258 49262 1916709 10812 30425 0 25804 (radio 1.91% / 2.09% tx 0.46% / 0.54% listen 1.45% / 1.54%)
+120806994:62: 15365 P 0.18 1 66084 3865529 14473 51568 0 48337 41361 1924535 10007 26260 0 23725 (radio 1.67% / 1.84% tx 0.36% / 0.50% listen 1.31% / 1.33%)
+120811938:58: 15365 P 0.18 1 76365 3855138 17681 54312 0 48627 42583 1923148 10114 28769 0 24811 (radio 1.83% / 1.97% tx 0.44% / 0.51% listen 1.38% / 1.46%)
+120819896:52: 15365 P 0.18 1 79440 3851637 9721 54669 0 50725 39173 1926313 2151 26691 0 25931 (radio 1.63% / 1.46% tx 0.24% / 0.10% listen 1.39% / 1.35%)
+120885110:10: 15365 P 0.18 1 90066 3841141 13298 58092 0 50117 53642 1911872 7281 29847 0 25011 (radio 1.81% / 1.88% tx 0.33% / 0.37% listen 1.47% / 1.51%)
+120923849:12: 15365 P 0.18 1 109870 3821331 19007 64669 0 50957 76236 1889290 14352 36945 0 25429 (radio 2.12% / 2.60% tx 0.48% / 0.73% listen 1.64% / 1.87%)
+120954285:49: 15365 P 0.18 1 92114 3839230 15824 61168 0 53364 61102 1904457 9815 34069 0 27738 (radio 1.95% / 2.23% tx 0.40% / 0.49% listen 1.55% / 1.73%)
+120965605:29: 15365 P 0.18 1 83795 3848042 15217 56633 0 50015 48639 1917369 9200 29983 0 25339 (radio 1.82% / 1.99% tx 0.38% / 0.46% listen 1.44% / 1.52%)
+120991680:22: 15365 P 0.18 1 68208 3863329 11534 53525 0 50597 33113 1932643 3963 27108 0 25882 (radio 1.65% / 1.58% tx 0.29% / 0.20% listen 1.36% / 1.37%)
+121013715:51: 15365 P 0.18 1 62538 3868828 12645 52125 0 49152 36554 1929157 8179 26674 0 24890 (radio 1.64% / 1.77% tx 0.32% / 0.41% listen 1.32% / 1.35%)
+121017769:43: 15365 P 0.18 1 72805 3858594 11968 55649 0 51613 37680 1927954 4404 29472 0 26879 (radio 1.71% / 1.72% tx 0.30% / 0.22% listen 1.41% / 1.49%)
+121018781:26: 15365 P 0.18 1 97563 3833591 9498 62442 0 53398 61610 1903889 4859 35039 0 27904 (radio 1.82% / 2.02% tx 0.24% / 0.24% listen 1.58% / 1.78%)
+121023999:56: 15365 P 0.18 1 90418 3840902 17533 60925 0 53219 60282 1905322 11507 34005 0 27916 (radio 1.99% / 2.31% tx 0.44% / 0.58% listen 1.54% / 1.73%)
+121037124:9: 15365 P 0.18 1 70530 3861258 10237 54300 0 50844 38946 1927038 4222 27683 0 26054 (radio 1.64% / 1.62% tx 0.26% / 0.21% listen 1.38% / 1.40%)
+121043780:5: 15365 P 0.18 1 79505 3852349 14045 61200 0 55866 48202 1917781 8023 34663 0 30792 (radio 1.91% / 2.17% tx 0.35% / 0.40% listen 1.55% / 1.76%)
+121047536:19: 15365 P 0.18 1 95795 3835594 12986 67540 0 57667 62535 1903063 8346 40184 0 32122 (radio 2.04% / 2.46% tx 0.33% / 0.42% listen 1.71% / 2.04%)
+121047784:42: 15365 P 0.18 1 95465 3835727 14947 61935 0 53198 58226 1907266 8756 33949 0 27678 (radio 1.95% / 2.17% tx 0.38% / 0.44% listen 1.57% / 1.72%)
+121117375:38: 15365 P 0.18 1 104304 3827417 21209 69524 0 57627 70861 1895082 16568 41480 0 31537 (radio 2.30% / 2.95% tx 0.53% / 0.84% listen 1.76% / 2.10%)
+121137777:17: 15365 P 0.18 1 98917 3832128 16105 61718 0 53579 57453 1908036 8536 34338 0 28431 (radio 1.97% / 2.18% tx 0.40% / 0.43% listen 1.57% / 1.74%)
+121210462:36: 15365 P 0.18 1 99233 3832509 20559 59401 0 50585 63677 1902278 14540 33326 0 25792 (radio 2.03% / 2.43% tx 0.52% / 0.73% listen 1.51% / 1.69%)
+121212504:13: 15365 P 0.18 1 88014 3843337 13744 60115 0 53339 49142 1916382 6177 31623 0 27321 (radio 1.87% / 1.92% tx 0.34% / 0.31% listen 1.52% / 1.60%)
+121214488:59: 15365 P 0.18 1 83583 3848258 16240 57368 0 50608 49230 1916780 10229 29995 0 25388 (radio 1.87% / 2.04% tx 0.41% / 0.52% listen 1.45% / 1.52%)
+121227761:3: 15365 P 0.18 1 67929 3863929 8320 54143 0 51607 36461 1929530 2297 27981 0 26829 (radio 1.58% / 1.54% tx 0.21% / 0.11% listen 1.37% / 1.42%)
+121235321:21: 15365 P 0.18 1 88783 3842415 15055 58318 0 53392 51842 1913642 9040 30163 0 27608 (radio 1.86% / 1.99% tx 0.38% / 0.45% listen 1.48% / 1.53%)
+121273853:23: 15365 P 0.18 1 80683 3851135 12545 55793 0 51250 45985 1920006 6351 29634 0 26933 (radio 1.73% / 1.83% tx 0.31% / 0.32% listen 1.41% / 1.50%)
+121304740:57: 15365 P 0.18 1 72352 3859319 16638 56334 0 51493 46636 1919257 12168 30592 0 26996 (radio 1.85% / 2.17% tx 0.42% / 0.61% listen 1.43% / 1.55%)
+121306619:32: 15365 P 0.18 1 109395 3821553 13703 67891 0 57534 65220 1900260 6133 39739 0 31661 (radio 2.07% / 2.33% tx 0.34% / 0.31% listen 1.72% / 2.02%)
+121813513:31:DATA send to 1: seqno: 2, len: 5, clock: 15532, rank: 768, num_neighbors: 4 
+121928769:1:DATA recv from 31:  2   5   15532   768   4  2, 15525
+121999991:53:DATA send to 1: seqno: 2, len: 5, clock: 15529, rank: 1280, num_neighbors: 4 
+122259689:1:DATA recv from 53:  2   5   15529   1280   4  4, 15567
+122310495:25:DATA send to 1: seqno: 2, len: 5, clock: 15562, rank: 768, num_neighbors: 3 
+122484955:1:DATA recv from 25:  2   5   15562   768   3  2, 15596
+122647055:45:DATA send to 1: seqno: 2, len: 5, clock: 15637, rank: 1280, num_neighbors: 4 
+123000154:1:DATA recv from 45:  2   5   15637   1280   4  4, 15662
+123652038:16:DATA send to 1: seqno: 2, len: 5, clock: 15733, rank: 1536, num_neighbors: 3 
+123904139:40:DATA send to 1: seqno: 2, len: 5, clock: 15773, rank: 512, num_neighbors: 4 
+123928436:1:DATA recv from 40:  2   5   15773   512   4  1, 15781
+123959659:55:DATA send to 1: seqno: 2, len: 5, clock: 15815, rank: 1280, num_neighbors: 4 
+124788130:1:DATA recv from 16:  2   5   15733   1536   3  5, 15891
+124808632:1:DATA recv from 55:  2   5   15815   1280   4  4, 15893
+125599643:36:DATA send to 1: seqno: 2, len: 5, clock: 15930, rank: 1024, num_neighbors: 3 
+125621696:29:DATA send to 1: seqno: 2, len: 5, clock: 15964, rank: 1280, num_neighbors: 3 
+125760307:1:DATA recv from 36:  2   5   15930   1024   3  3, 16015
+125997694:1:DATA recv from 29:  2   5   15964   1280   3  4, 16046
+127398289:42:DATA send to 1: seqno: 2, len: 5, clock: 16181, rank: 1024, num_neighbors: 4 
+127680233:1:DATA recv from 42:  2   5   16181   1024   4  3, 16261
+128788962:63:DATA send to 1: seqno: 2, len: 5, clock: 16409, rank: 1792, num_neighbors: 3 
+129663020:61:DATA send to 1: seqno: 2, len: 5, clock: 16506, rank: 1792, num_neighbors: 2 
+129898498:6:DATA send to 1: seqno: 2, len: 5, clock: 16561, rank: 1536, num_neighbors: 3 
+129920844:1:DATA recv from 63:  2   5   16409   1792   3  6, 16548
+129959774:52:DATA send to 1: seqno: 2, len: 5, clock: 16538, rank: 1536, num_neighbors: 4 
+130171001:1:DATA recv from 6:  2   5   16561   1536   3  5, 16580
+130357955:1:DATA recv from 61:  2   5   16506   1792   2  6, 16604
+131711564:28:DATA send to 1: seqno: 2, len: 5, clock: 16807, rank: 1024, num_neighbors: 4 
+131935890:9:DATA send to 1: seqno: 2, len: 5, clock: 16763, rank: 1792, num_neighbors: 3 
+131975876:23:DATA send to 1: seqno: 2, len: 5, clock: 16738, rank: 1280, num_neighbors: 3 
+132116082:1:DATA recv from 28:  2   5   16807   1024   4  3, 16829
+132350254:1:DATA recv from 9:  2   5   16763   1792   3  6, 16859
+132976538:1:DATA recv from 52:  2   5   16538   1536   4  5, 16939
+133246520:14:DATA send to 1: seqno: 2, len: 5, clock: 16964, rank: 1536, num_neighbors: 4 
+133525119:1:DATA recv from 23:  2   5   16738   1280   3  4, 17009
+134033412:1:DATA recv from 14:  2   5   16964   1536   4  5, 17074
+134169982:44:DATA send to 1: seqno: 2, len: 5, clock: 17112, rank: 1536, num_neighbors: 3 
+134654393:1:DATA recv from 44:  2   5   17112   1536   3  5, 17154
+134658990:7:DATA send to 1: seqno: 2, len: 5, clock: 17151, rank: 1792, num_neighbors: 3 
+135336326:1:DATA recv from 7:  2   5   17151   1792   3  6, 17241
+136262511:20:DATA send to 1: seqno: 2, len: 5, clock: 17347, rank: 1024, num_neighbors: 4 
+136582831:1:DATA recv from 20:  2   5   17347   1024   4  3, 17401
+139060899:22:DATA send to 1: seqno: 2, len: 5, clock: 17681, rank: 1536, num_neighbors: 3 
+139512632:24:DATA send to 1: seqno: 2, len: 5, clock: 17819, rank: 1024, num_neighbors: 4 
+139862851:1:DATA recv from 22:  2   5   17681   1536   3  5, 17820
+140619565:39:DATA send to 1: seqno: 2, len: 5, clock: 17962, rank: 768, num_neighbors: 4 
+140705923:32:DATA send to 1: seqno: 2, len: 5, clock: 17851, rank: 512, num_neighbors: 4 
+140769165:1:DATA recv from 32:  2   5   17851   512   4  1, 17936
+141055026:56:DATA send to 1: seqno: 2, len: 5, clock: 17932, rank: 1536, num_neighbors: 4 
+141262060:1:DATA recv from 24:  2   5   17819   1024   4  3, 17999
+141898043:1:DATA recv from 56:  2   5   17932   1536   4  5, 18081
+143877090:27:DATA send to 1: seqno: 2, len: 5, clock: 18333, rank: 768, num_neighbors: 3 
+143938846:10:DATA send to 1: seqno: 2, len: 5, clock: 18319, rank: 1536, num_neighbors: 4 
+143993341:1:DATA recv from 27:  2   5   18333   768   3  2, 18349
+144144536:17:DATA send to 1: seqno: 2, len: 5, clock: 18313, rank: 1280, num_neighbors: 4 
+144633737:1:DATA recv from 17:  2   5   18313   1280   4  4, 18431
+144685894:38:DATA send to 1: seqno: 2, len: 5, clock: 18385, rank: 1024, num_neighbors: 4 
+145367964:1:DATA recv from 38:  2   5   18385   1024   4  3, 18525
+145748532:1:DATA recv from 10:  2   5   18319   1536   4  5, 18574
+147612424:34:DATA send to 1: seqno: 2, len: 5, clock: 18857, rank: 512, num_neighbors: 4 
+147659910:1:DATA recv from 34:  2   5   18857   512   4  1, 18818
+147930409:62:DATA send to 1: seqno: 2, len: 5, clock: 18840, rank: 2048, num_neighbors: 2 
+149235416:43:DATA send to 1: seqno: 2, len: 5, clock: 18980, rank: 1280, num_neighbors: 3 
+149275558:59:DATA send to 1: seqno: 2, len: 5, clock: 18960, rank: 1792, num_neighbors: 3 
+149780126:50:DATA send to 1: seqno: 2, len: 5, clock: 19122, rank: 1536, num_neighbors: 3 
+150075772:1:DATA recv from 43:  2   5   18980   1280   3  4, 19128
+150206441:11:DATA send to 1: seqno: 2, len: 5, clock: 19168, rank: 1280, num_neighbors: 3 
+150274280:1:DATA recv from 59:  2   5   18960   1792   3  6, 19153
+150818840:1:DATA recv from 50:  2   5   19122   1536   3  5, 19223
+151192024:1:DATA recv from 11:  2   5   19168   1280   3  4, 19271
+152631408:57:DATA send to 1: seqno: 2, len: 5, clock: 19378, rank: 1792, num_neighbors: 3 
+153175047:1:DATA recv from 57:  2   5   19378   1792   3  6, 19524
+153210947:49:DATA send to 1: seqno: 2, len: 5, clock: 19497, rank: 1280, num_neighbors: 4 
+153292911:26:DATA send to 1: seqno: 2, len: 5, clock: 19499, rank: 512, num_neighbors: 4 
+153373942:1:DATA recv from 26:  2   5   19499   512   4  1, 19550
+153477852:1:DATA recv from 49:  2   5   19497   1280   4  4, 19563
+153872635:48:DATA send to 1: seqno: 2, len: 5, clock: 19648, rank: 1024, num_neighbors: 4 
+154468178:1:DATA recv from 48:  2   5   19648   1024   4  3, 19690
+154548221:30:DATA send to 1: seqno: 2, len: 5, clock: 19717, rank: 1024, num_neighbors: 3 
+154738996:1:DATA recv from 30:  2   5   19717   1024   3  3, 19725
+154906575:3:DATA send to 1: seqno: 2, len: 5, clock: 19679, rank: 1792, num_neighbors: 3 
+155479250:1:DATA recv from 3:  2   5   19679   1792   3  6, 19819
+156746888:51:DATA send to 1: seqno: 2, len: 5, clock: 19942, rank: 2048, num_neighbors: 2 
+157583486:1:DATA recv from 51:  2   5   19942   2048   2  7, 20089
+159942425:46:DATA send to 1: seqno: 2, len: 5, clock: 20379, rank: 1024, num_neighbors: 3 
+160261343:1:DATA recv from 46:  2   5   20379   1024   3  3, 20431
+164164680:13:DATA send to 1: seqno: 2, len: 5, clock: 20866, rank: 1280, num_neighbors: 4 
+164628000:1:DATA recv from 13:  2   5   20866   1280   4  4, 20990
+165313666:2:DATA send to 1: seqno: 2, len: 5, clock: 21096, rank: 1792, num_neighbors: 3 
+165800822:37:DATA send to 1: seqno: 2, len: 5, clock: 21128, rank: 1280, num_neighbors: 3 
+165957153:4:DATA send to 1: seqno: 2, len: 5, clock: 21164, rank: 1536, num_neighbors: 3 
+166035235:1:DATA recv from 37:  2   5   21128   1280   3  4, 21170
+166132441:1:DATA recv from 2:  2   5   21096   1792   3  6, 21183
+166743336:1:DATA recv from 4:  2   5   21164   1536   3  5, 21261
+166793522:54:DATA send to 1: seqno: 2, len: 5, clock: 21288, rank: 1024, num_neighbors: 3 
+167109354:21:DATA send to 1: seqno: 2, len: 5, clock: 21240, rank: 1280, num_neighbors: 4 
+167132323:1:DATA recv from 54:  2   5   21288   1024   3  3, 21311
+168490124:1:DATA recv from 21:  2   5   21240   1280   4  4, 21485
+169450949:58:DATA send to 1: seqno: 2, len: 5, clock: 21594, rank: 2048, num_neighbors: 2 
+170267625:60:DATA send to 1: seqno: 2, len: 5, clock: 21746, rank: 1536, num_neighbors: 3 
+170911140:47:DATA send to 1: seqno: 2, len: 5, clock: 21790, rank: 768, num_neighbors: 4 
+170997697:1:DATA recv from 47:  2   5   21790   768   4  2, 21806
+171471936:33:DATA send to 1: seqno: 2, len: 5, clock: 21869, rank: 1536, num_neighbors: 3 
+172179114:18:DATA send to 1: seqno: 2, len: 5, clock: 21963, rank: 1024, num_neighbors: 4 
+172697252:35:DATA send to 1: seqno: 2, len: 5, clock: 22044, rank: 768, num_neighbors: 4 
+172789231:1:DATA recv from 35:  2   5   22044   768   4  2, 22035
+172906553:1:DATA recv from 18:  2   5   21963   1024   4  3, 22050
+173130024:5:DATA send to 1: seqno: 2, len: 5, clock: 22035, rank: 1280, num_neighbors: 3 
+173238400:1:DATA recv from 58:  2   5   21594   2048   2  7, 22092
+173510360:1:DATA recv from 60:  2   5   21746   1536   3  5, 22127
+173730502:1:DATA recv from 5:  2   5   22035   1280   3  4, 22155
+173941492:1:DATA recv from 33:  2   5   21869   1536   3  5, 22182
+174509416:12:DATA send to 1: seqno: 2, len: 5, clock: 22227, rank: 1024, num_neighbors: 4 
+175358358:1:DATA recv from 12:  2   5   22227   1024   4  3, 22364
+175796598:19:DATA send to 1: seqno: 2, len: 5, clock: 22376, rank: 768, num_neighbors: 4 
+176292100:1:DATA recv from 19:  2   5   22376   768   4  2, 22483
+177009792:15:DATA send to 1: seqno: 2, len: 5, clock: 22564, rank: 1792, num_neighbors: 3 
+177782775:1:DATA recv from 15:  2   5   22564   1792   3  6, 22674
+179009547:8:DATA send to 1: seqno: 2, len: 5, clock: 22870, rank: 2048, num_neighbors: 2 
+179654259:1:DATA recv from 8:  2   5   22870   2048   2  7, 22914
+180355936:39: 23045 P 0.18 2 182773 5713698 29939 99917 0 81128 70371 1895159 11109 34998 0 26059 (radio 2.20% / 2.34% tx 0.50% / 0.56% listen 1.69% / 1.78%)
+180356135:34: 23045 P 0.18 2 142420 5754049 12992 90153 0 78534 52086 1913421 2965 31090 0 25692 (radio 1.74% / 1.73% tx 0.22% / 0.15% listen 1.52% / 1.58%)
+180364027:24: 23045 P 0.18 2 149297 5747588 24289 97883 0 85562 57306 1908198 8649 35771 0 30871 (radio 2.07% / 2.25% tx 0.41% / 0.44% listen 1.65% / 1.81%)
+180401763:8: 23045 P 0.18 2 107931 5789120 19500 82179 0 74662 30453 1935082 1896 25923 0 25301 (radio 1.72% / 1.41% tx 0.33% / 0.09% listen 1.39% / 1.31%)
+180436071:48: 23045 P 0.18 2 170392 5726220 26687 106676 0 88051 69407 1896085 10525 39876 0 31309 (radio 2.26% / 2.56% tx 0.45% / 0.53% listen 1.80% / 2.02%)
+180441000:60: 23045 P 0.18 2 134624 5763086 22556 85735 0 74324 42702 1923271 4092 27413 0 24992 (radio 1.83% / 1.60% tx 0.38% / 0.20% listen 1.45% / 1.39%)
+180453497:50: 23045 P 0.18 2 116966 5780661 20851 83996 0 76105 40037 1925945 3098 28711 0 26375 (radio 1.77% / 1.61% tx 0.35% / 0.15% listen 1.42% / 1.46%)
+180468801:55: 23045 P 0.18 2 147722 5749245 26767 92507 0 79515 50710 1914808 4857 30224 0 26875 (radio 2.02% / 1.78% tx 0.45% / 0.24% listen 1.56% / 1.53%)
+180470741:28: 23045 P 0.18 2 129665 5766832 17052 80975 0 76179 44556 1920952 4324 25476 0 23739 (radio 1.66% / 1.51% tx 0.28% / 0.21% listen 1.37% / 1.29%)
+180519514:11: 23045 P 0.18 2 120265 5777522 19833 83506 0 76140 38227 1927774 3201 26052 0 24699 (radio 1.75% / 1.48% tx 0.33% / 0.16% listen 1.41% / 1.32%)
+180532730:31: 23045 P 0.18 2 142752 5754220 18867 96215 0 84364 52266 1913241 5359 33886 0 28834 (radio 1.95% / 1.99% tx 0.31% / 0.27% listen 1.63% / 1.72%)
+180542581:35: 23045 P 0.18 2 139830 5756755 17526 86998 0 77424 53321 1912174 6255 28667 0 24652 (radio 1.77% / 1.77% tx 0.29% / 0.31% listen 1.47% / 1.45%)
+180545264:54: 23045 P 0.18 2 137460 5760255 22606 100342 0 84937 45480 1920469 4432 35727 0 30786 (radio 2.08% / 2.04% tx 0.38% / 0.22% listen 1.70% / 1.81%)
+180546508:44: 23045 P 0.18 2 115143 5782662 14897 80993 0 75341 38385 1927627 3380 27535 0 25419 (radio 1.62% / 1.57% tx 0.25% / 0.17% listen 1.37% / 1.40%)
+180546906:45: 23045 P 0.18 2 153418 5743283 22361 93165 0 80904 60035 1905482 8057 33235 0 27138 (radio 1.95% / 2.10% tx 0.37% / 0.40% listen 1.57% / 1.69%)
+180565170:2: 23045 P 0.18 2 116898 5780807 18039 82427 0 76643 39070 1926915 4489 27024 0 25250 (radio 1.70% / 1.60% tx 0.30% / 0.22% listen 1.39% / 1.37%)
+180573160:30: 23045 P 0.18 2 121284 5776492 20974 81292 0 73373 40707 1925286 5871 26189 0 23860 (radio 1.73% / 1.63% tx 0.35% / 0.29% listen 1.37% / 1.33%)
+180579704:6: 23045 P 0.18 2 134203 5763661 25779 84157 0 73653 37433 1928587 2978 25524 0 24178 (radio 1.86% / 1.44% tx 0.43% / 0.15% listen 1.42% / 1.29%)
+180655567:18: 23045 P 0.18 2 147862 5748683 18877 92263 0 79357 53808 1911684 4836 32260 0 26830 (radio 1.88% / 1.88% tx 0.32% / 0.24% listen 1.56% / 1.64%)
+180657618:63: 23045 P 0.18 2 104578 5793244 11957 78252 0 74627 33876 1932144 1812 24670 0 24025 (radio 1.52% / 1.34% tx 0.20% / 0.09% listen 1.32% / 1.25%)
+180662040:41:DATA send to 1: seqno: 2, len: 5, clock: 23041, rank: 768, num_neighbors: 4 
+180677350:4: 23045 P 0.18 2 115602 5782183 18701 81604 0 74817 35218 1930765 1890 25771 0 24775 (radio 1.70% / 1.40% tx 0.31% / 0.09% listen 1.38% / 1.31%)
+180684386:33: 23045 P 0.18 2 130766 5766971 21179 88827 0 78140 49812 1916150 6477 31627 0 27537 (radio 1.86% / 1.93% tx 0.35% / 0.32% listen 1.50% / 1.60%)
+180714636:27: 23045 P 0.18 2 122855 5774864 20915 84956 0 75381 35959 1929987 1484 27196 0 25758 (radio 1.79% / 1.45% tx 0.35% / 0.07% listen 1.44% / 1.38%)
+180730763:7: 23045 P 0.18 2 111283 5786591 14371 83658 0 78027 34443 1931576 1812 25480 0 24395 (radio 1.66% / 1.38% tx 0.24% / 0.09% listen 1.41% / 1.29%)
+180741456:47: 23045 P 0.18 2 213934 5682832 40623 114993 0 82134 85783 1879735 15365 40844 0 27224 (radio 2.63% / 2.85% tx 0.68% / 0.78% listen 1.95% / 2.07%)
+180743899:53: 23045 P 0.18 2 160064 5736540 25247 95482 0 79249 65041 1900461 10523 33946 0 25969 (radio 2.04% / 2.26% tx 0.42% / 0.53% listen 1.61% / 1.72%)
+180744241:41: 23048 P 0.18 2 153002 5744276 23485 94745 0 81459 53592 1912696 5702 32349 0 27191 (radio 2.00% / 1.93% tx 0.39% / 0.28% listen 1.60% / 1.64%)
+180747929:40: 23045 P 0.18 2 229890 5667254 28954 138343 0 100228 85602 1880077 7679 52588 0 36541 (radio 2.83% / 3.06% tx 0.49% / 0.39% listen 2.34% / 2.67%)
+180773669:61: 23045 P 0.18 2 97974 5799617 12401 81611 0 76733 36440 1929477 4239 28513 0 26481 (radio 1.59% / 1.66% tx 0.21% / 0.21% listen 1.38% / 1.45%)
+180779158:14: 23045 P 0.18 2 142567 5754063 23182 87120 0 77423 43171 1922339 3226 27222 0 25070 (radio 1.87% / 1.54% tx 0.39% / 0.16% listen 1.47% / 1.38%)
+180787291:1:DATA recv from 41:  2   5   23041   768   4  2, 23059
+180791620:15: 23045 P 0.18 2 127635 5770167 19986 84964 0 75835 46561 1919408 8116 27641 0 24059 (radio 1.77% / 1.81% tx 0.33% / 0.41% listen 1.44% / 1.40%)
+180793622:46: 23045 P 0.18 2 105326 5792417 9752 87218 0 83424 36708 1929253 2693 29989 0 28912 (radio 1.64% / 1.66% tx 0.16% / 0.13% listen 1.47% / 1.52%)
+180796495:25: 23045 P 0.18 2 149709 5747874 24579 93323 0 77090 57827 1908161 8323 32548 0 26397 (radio 1.99% / 2.07% tx 0.41% / 0.42% listen 1.58% / 1.65%)
+180801540:20: 23045 P 0.18 2 138611 5758044 20268 86182 0 77253 43676 1921829 3366 27895 0 25371 (radio 1.80% / 1.59% tx 0.34% / 0.17% listen 1.46% / 1.41%)
+180802000:16: 23045 P 0.18 2 125144 5772623 22010 84878 0 75949 39298 1926716 3633 27769 0 25691 (radio 1.81% / 1.59% tx 0.37% / 0.18% listen 1.43% / 1.41%)
+180802331:37: 23045 P 0.18 2 121050 5776729 17483 84174 0 78266 44166 1921811 5107 29364 0 26647 (radio 1.72% / 1.75% tx 0.29% / 0.25% listen 1.42% / 1.49%)
+180807497:62: 23045 P 0.18 2 109981 5787410 24753 79648 0 72197 43894 1921881 10280 28080 0 23860 (radio 1.77% / 1.95% tx 0.41% / 0.52% listen 1.35% / 1.42%)
+180812007:58: 23045 P 0.18 2 106731 5790389 19836 79090 0 72714 30363 1935251 2155 24778 0 24087 (radio 1.67% / 1.37% tx 0.33% / 0.10% listen 1.34% / 1.26%)
+180820521:52: 23045 P 0.18 2 118517 5778076 11966 79647 0 74901 39074 1926439 2245 24978 0 24176 (radio 1.55% / 1.38% tx 0.20% / 0.11% listen 1.35% / 1.27%)
+180885538:10: 23045 P 0.18 2 136006 5760707 17477 85518 0 74933 45937 1919566 4179 27426 0 24816 (radio 1.74% / 1.60% tx 0.29% / 0.21% listen 1.45% / 1.39%)
+180924153:12: 23045 P 0.18 2 185501 5711216 32019 100149 0 75948 75628 1889885 13012 35480 0 24991 (radio 2.24% / 2.46% tx 0.54% / 0.66% listen 1.69% / 1.80%)
+180954538:49: 23045 P 0.18 2 142860 5753987 21061 90122 0 78892 50743 1914757 5237 28954 0 25528 (radio 1.88% / 1.73% tx 0.35% / 0.26% listen 1.52% / 1.47%)
+180965953:29: 23045 P 0.18 2 118438 5779428 16428 83167 0 75063 34640 1931386 1211 26534 0 25048 (radio 1.68% / 1.41% tx 0.27% / 0.06% listen 1.41% / 1.34%)
+180992105:22: 23045 P 0.18 2 104675 5792834 14297 80015 0 75733 36464 1929505 2763 26490 0 25136 (radio 1.59% / 1.48% tx 0.24% / 0.14% listen 1.35% / 1.34%)
+181014620:51: 23045 P 0.18 2 108466 5788608 24122 82680 0 75441 45925 1919780 11477 30555 0 26289 (radio 1.81% / 2.13% tx 0.40% / 0.58% listen 1.40% / 1.55%)
+181018252:43: 23045 P 0.18 2 125423 5771950 19804 85448 0 75883 52615 1913356 7836 29799 0 24270 (radio 1.78% / 1.91% tx 0.33% / 0.39% listen 1.44% / 1.51%)
+181019970:26: 23045 P 0.18 2 164744 5731911 15799 100191 0 82076 67178 1898320 6301 37749 0 28678 (radio 1.96% / 2.24% tx 0.26% / 0.32% listen 1.69% / 1.92%)
+181024054:56: 23045 P 0.18 2 131345 5765475 19872 87891 0 78395 40924 1924573 2339 26966 0 25176 (radio 1.82% / 1.49% tx 0.33% / 0.11% listen 1.49% / 1.37%)
+181037525:9: 23045 P 0.18 2 111347 5786460 14097 82385 0 76234 40814 1925202 3860 28085 0 25390 (radio 1.63% / 1.62% tx 0.23% / 0.19% listen 1.39% / 1.42%)
+181044174:5: 23045 P 0.18 2 118858 5778968 16752 94014 0 86555 39350 1926619 2707 32814 0 30689 (radio 1.87% / 1.80% tx 0.28% / 0.13% listen 1.59% / 1.66%)
+181048060:42: 23045 P 0.18 2 146543 5750147 20674 97181 0 83920 51075 1914420 5727 35246 0 30722 (radio 1.99% / 2.08% tx 0.35% / 0.29% listen 1.64% / 1.79%)
+181048865:19: 23045 P 0.18 2 179225 5717654 27136 112112 0 89735 83427 1882060 14150 44572 0 32068 (radio 2.36% / 2.98% tx 0.46% / 0.71% listen 1.90% / 2.26%)
+181061104:45:DATA send to 1: seqno: 3, len: 5, clock: 23114, rank: 1280, num_neighbors: 4 
+181117653:38: 23045 P 0.18 2 173431 5723891 37866 113388 0 92962 69124 1896474 16657 43864 0 35335 (radio 2.56% / 3.07% tx 0.64% / 0.84% listen 1.92% / 2.23%)
+181138106:17: 23045 P 0.18 2 148011 5748541 20483 89669 0 78513 49091 1916413 4378 27951 0 24934 (radio 1.86% / 1.64% tx 0.34% / 0.22% listen 1.52% / 1.42%)
+181210467:36: 23045 P 0.18 2 137178 5760583 22461 85910 0 74803 37942 1928074 1902 26509 0 24218 (radio 1.83% / 1.44% tx 0.38% / 0.09% listen 1.45% / 1.34%)
+181212927:13: 23045 P 0.18 2 134514 5762329 17838 87574 0 77844 46497 1918992 4094 27459 0 24505 (radio 1.78% / 1.60% tx 0.30% / 0.20% listen 1.48% / 1.39%)
+181214572:59: 23045 P 0.18 2 119019 5778825 18319 82332 0 74492 35433 1930567 2079 24964 0 23884 (radio 1.70% / 1.37% tx 0.31% / 0.10% listen 1.39% / 1.26%)
+181228319:3: 23045 P 0.18 2 102531 5795327 10218 80291 0 76829 34599 1931398 1898 26148 0 25222 (radio 1.53% / 1.42% tx 0.17% / 0.09% listen 1.36% / 1.33%)
+181235718:21: 23045 P 0.18 2 133143 5763551 18585 84807 0 78139 44357 1921136 3530 26489 0 24747 (radio 1.75% / 1.52% tx 0.31% / 0.17% listen 1.43% / 1.34%)
+181274307:23: 23045 P 0.18 2 127613 5770215 18217 85408 0 77327 46927 1919080 5672 29615 0 26077 (radio 1.75% / 1.79% tx 0.30% / 0.28% listen 1.44% / 1.50%)
+181305162:57: 23045 P 0.18 2 125339 5772315 27194 86177 0 76227 52984 1912996 10556 29843 0 24734 (radio 1.92% / 2.05% tx 0.46% / 0.53% listen 1.46% / 1.51%)
+181312658:32: 23045 P 0.18 2 169787 5726827 17879 108419 0 89661 60389 1905274 4176 40528 0 32127 (radio 2.14% / 2.27% tx 0.30% / 0.21% listen 1.83% / 2.06%)
+181459627:1:DATA recv from 45:  3   5   23114   1280   4  4, 23145
+183091827:36:DATA send to 1: seqno: 3, len: 5, clock: 23289, rank: 1024, num_neighbors: 3 
+183467231:1:DATA recv from 36:  3   5   23289   1024   3  3, 23402
+183472077:24:DATA send to 1: seqno: 3, len: 5, clock: 23446, rank: 1024, num_neighbors: 4 
+183505700:40:DATA send to 1: seqno: 3, len: 5, clock: 23402, rank: 512, num_neighbors: 4 
+183768540:1:DATA recv from 24:  3   5   23446   1024   4  3, 23440
+183781753:1:DATA recv from 40:  3   5   23402   512   4  1, 23442
+183957477:14:DATA send to 1: seqno: 3, len: 5, clock: 23455, rank: 1536, num_neighbors: 4 
+184046870:53:DATA send to 1: seqno: 3, len: 5, clock: 23471, rank: 1280, num_neighbors: 4 
+184641786:1:DATA recv from 14:  3   5   23455   1536   4  5, 23552
+184650408:1:DATA recv from 53:  3   5   23471   1280   4  4, 23553
+185625138:12:DATA send to 1: seqno: 3, len: 5, clock: 23650, rank: 1024, num_neighbors: 4 
+185953910:1:DATA recv from 12:  3   5   23650   1024   4  3, 23720
+186557166:8:DATA send to 1: seqno: 3, len: 5, clock: 23836, rank: 2048, num_neighbors: 2 
+186731012:54:DATA send to 1: seqno: 3, len: 5, clock: 23840, rank: 1024, num_neighbors: 3 
+187069271:1:DATA recv from 8:  3   5   23836   2048   2  7, 23863
+187080910:1:DATA recv from 54:  3   5   23840   1024   3  3, 23864
+188825687:37:DATA send to 1: seqno: 3, len: 5, clock: 24075, rank: 1280, num_neighbors: 3 
+188900799:11:DATA send to 1: seqno: 3, len: 5, clock: 24121, rank: 1280, num_neighbors: 3 
+188987973:16:DATA send to 1: seqno: 3, len: 5, clock: 24096, rank: 1536, num_neighbors: 3 
+189559677:1:DATA recv from 11:  3   5   24121   1280   3  4, 24182
+190539032:21:DATA send to 1: seqno: 3, len: 5, clock: 24239, rank: 1280, num_neighbors: 4 
+190623394:9:DATA send to 1: seqno: 3, len: 5, clock: 24275, rank: 1792, num_neighbors: 3 
+190693511:1:DATA recv from 37:  3   5   24075   1280   3  4, 24327
+190816410:17:DATA send to 1: seqno: 3, len: 5, clock: 24287, rank: 1280, num_neighbors: 4 
+191064849:1:DATA recv from 17:  3   5   24287   1280   4  4, 24374
+191931595:1:DATA recv from 21:  3   5   24239   1280   4  4, 24485
+191933715:4:DATA send to 1: seqno: 3, len: 5, clock: 24489, rank: 1536, num_neighbors: 3 
+192691238:1:DATA recv from 4:  3   5   24489   1536   3  5, 24582
+193545270:38:DATA send to 1: seqno: 3, len: 5, clock: 24639, rank: 1024, num_neighbors: 4 
+193983443:25:DATA send to 1: seqno: 3, len: 5, clock: 24736, rank: 768, num_neighbors: 3 
+194236613:1:DATA recv from 38:  3   5   24639   1024   4  3, 24780
+195101762:1:DATA recv from 9:  3   5   24275   1792   3  6, 24891
+195114542:1:DATA recv from 25:  3   5   24736   768   3  2, 24893
+195906858:13:DATA send to 1: seqno: 3, len: 5, clock: 24929, rank: 1280, num_neighbors: 4 
+196103291:1:DATA recv from 13:  3   5   24929   1280   4  4, 25019
+196248566:58:DATA send to 1: seqno: 3, len: 5, clock: 25024, rank: 2048, num_neighbors: 2 
+197008927:1:DATA recv from 58:  3   5   25024   2048   2  7, 25135
+197765937:3:DATA send to 1: seqno: 3, len: 5, clock: 25165, rank: 1792, num_neighbors: 3 
+198601777:1:DATA recv from 3:  3   5   25165   1792   3  6, 25339
+200926217:48:DATA send to 1: seqno: 3, len: 5, clock: 25671, rank: 1024, num_neighbors: 4 
+201153115:51:DATA send to 1: seqno: 3, len: 5, clock: 25626, rank: 2048, num_neighbors: 2 
+201455359:62:DATA send to 1: seqno: 3, len: 5, clock: 25691, rank: 2048, num_neighbors: 2 
+201508427:1:DATA recv from 48:  3   5   25671   1024   4  3, 25711
+202121035:1:DATA recv from 51:  3   5   25626   2048   2  7, 25789
+202336218:1:DATA recv from 62:  3   5   25691   2048   2  7, 25817
+203032286:43:DATA send to 1: seqno: 3, len: 5, clock: 25866, rank: 1280, num_neighbors: 3 
+203245416:1:DATA recv from 43:  3   5   25866   1280   3  4, 25933
+203705213:27:DATA send to 1: seqno: 3, len: 5, clock: 25991, rank: 768, num_neighbors: 3 
+203841562:1:DATA recv from 27:  3   5   25991   768   3  2, 26010
+203987546:33:DATA send to 1: seqno: 3, len: 5, clock: 26031, rank: 1536, num_neighbors: 3 
+204982869:1:DATA recv from 33:  3   5   26031   1536   3  5, 26156
+205399071:28:DATA send to 1: seqno: 3, len: 5, clock: 26239, rank: 1024, num_neighbors: 4 
+205608212:52:DATA send to 1: seqno: 3, len: 5, clock: 26221, rank: 1536, num_neighbors: 4 
+205891511:1:DATA recv from 28:  3   5   26239   1024   4  3, 26272
+206704536:1:DATA recv from 52:  3   5   26221   1536   4  5, 26376
+208475808:56:DATA send to 1: seqno: 3, len: 5, clock: 26562, rank: 1536, num_neighbors: 4 
+208994172:60:DATA send to 1: seqno: 3, len: 5, clock: 26703, rank: 1536, num_neighbors: 3 
+209364326:1:DATA recv from 60:  3   5   26703   1536   3  5, 26717
+210972937:1:DATA recv from 56:  3   5   26562   1536   4  5, 26922
+211506393:57:DATA send to 1: seqno: 3, len: 5, clock: 26914, rank: 1792, num_neighbors: 3 
+211832120:1:DATA recv from 57:  3   5   26914   1792   3  6, 27032
+211876329:30:DATA send to 1: seqno: 3, len: 5, clock: 27055, rank: 1024, num_neighbors: 3 
+211947416:59:DATA send to 1: seqno: 3, len: 5, clock: 26982, rank: 1792, num_neighbors: 3 
+212069987:1:DATA recv from 30:  3   5   27055   1024   3  3, 27063
+212947639:1:DATA recv from 59:  3   5   26982   1792   3  6, 27175
+214339494:29:DATA send to 1: seqno: 3, len: 5, clock: 27320, rank: 1280, num_neighbors: 3 
+215638244:1:DATA recv from 29:  3   5   27320   1280   3  4, 27520
+218025363:35:DATA send to 1: seqno: 3, len: 5, clock: 27846, rank: 768, num_neighbors: 4 
+218122219:1:DATA recv from 35:  3   5   27846   768   4  2, 27838
+218787049:41:DATA send to 1: seqno: 3, len: 5, clock: 27921, rank: 768, num_neighbors: 4 
+219378680:1:DATA recv from 41:  3   5   27921   768   4  2, 27998
+221363741:20:DATA send to 1: seqno: 3, len: 5, clock: 28240, rank: 1024, num_neighbors: 4 
+221534166:1:DATA recv from 20:  3   5   28240   1024   4  3, 28274
+222330491:39:DATA send to 1: seqno: 3, len: 5, clock: 28421, rank: 768, num_neighbors: 4 
+222437442:1:DATA recv from 39:  3   5   28421   768   4  2, 28390
+224821586:42:DATA send to 1: seqno: 3, len: 5, clock: 28651, rank: 1024, num_neighbors: 4 
+224967768:18:DATA send to 1: seqno: 3, len: 5, clock: 28720, rank: 1024, num_neighbors: 4 
+225115282:44:DATA send to 1: seqno: 3, len: 5, clock: 28753, rank: 1536, num_neighbors: 3 
+225322763:1:DATA recv from 18:  3   5   28720   1024   4  3, 28759
+225553158:1:DATA recv from 42:  3   5   28651   1024   4  3, 28789
+226500773:1:DATA recv from 44:  3   5   28753   1536   3  5, 28910
+227254464:32:DATA send to 1: seqno: 3, len: 5, clock: 28929, rank: 512, num_neighbors: 4 
+227390152:1:DATA recv from 32:  3   5   28929   512   4  1, 29024
+227534217:2:DATA send to 1: seqno: 3, len: 5, clock: 29060, rank: 1792, num_neighbors: 3 
+228234100:1:DATA recv from 2:  3   5   29060   1792   3  6, 29132
+228404656:22:DATA send to 1: seqno: 3, len: 5, clock: 29117, rank: 1536, num_neighbors: 3 
+229000120:1:DATA recv from 22:  3   5   29117   1536   3  5, 29230
+229017987:26:DATA send to 1: seqno: 3, len: 5, clock: 29192, rank: 512, num_neighbors: 4 
+229087561:1:DATA recv from 26:  3   5   29192   512   4  1, 29241
+229248873:50:DATA send to 1: seqno: 3, len: 5, clock: 29294, rank: 1536, num_neighbors: 3 
+230224622:1:DATA recv from 50:  3   5   29294   1536   3  5, 29387
+230237954:5:DATA send to 1: seqno: 3, len: 5, clock: 29345, rank: 1280, num_neighbors: 3 
+230751014:31:DATA send to 1: seqno: 3, len: 5, clock: 29476, rank: 768, num_neighbors: 4 
+230889914:1:DATA recv from 5:  3   5   29345   1280   3  4, 29472
+231043681:1:DATA recv from 31:  3   5   29476   768   4  2, 29492
+231379532:34:DATA send to 1: seqno: 3, len: 5, clock: 29579, rank: 512, num_neighbors: 4 
+231428340:1:DATA recv from 34:  3   5   29579   512   4  1, 29541
+231518365:7:DATA send to 1: seqno: 3, len: 5, clock: 29549, rank: 1792, num_neighbors: 3 
+231826642:47:DATA send to 1: seqno: 3, len: 5, clock: 29587, rank: 768, num_neighbors: 4 
+231947283:15:DATA send to 1: seqno: 3, len: 5, clock: 29596, rank: 1792, num_neighbors: 3 
+232093024:1:DATA recv from 47:  3   5   29587   768   4  2, 29626
+233067723:1:DATA recv from 7:  3   5   29549   1792   3  6, 29751
+233139589:61:DATA send to 1: seqno: 3, len: 5, clock: 29751, rank: 1792, num_neighbors: 2 
+233334674:55:DATA send to 1: seqno: 3, len: 5, clock: 29815, rank: 1280, num_neighbors: 4 
+233583485:1:DATA recv from 55:  3   5   29815   1280   4  4, 29817
+233891655:6:DATA send to 1: seqno: 3, len: 5, clock: 29872, rank: 1536, num_neighbors: 3 
+234452195:1:DATA recv from 61:  3   5   29751   1792   2  6, 29928
+234870799:1:DATA recv from 15:  3   5   29596   1792   3  6, 29981
+234988909:1:DATA recv from 6:  3   5   29872   1536   3  5, 29997
+236827848:19:DATA send to 1: seqno: 3, len: 5, clock: 30188, rank: 768, num_neighbors: 4 
+237163692:1:DATA recv from 19:  3   5   30188   768   4  2, 30275
+237890711:49:DATA send to 1: seqno: 3, len: 5, clock: 30336, rank: 1280, num_neighbors: 4 
+238136093:1:DATA recv from 49:  3   5   30336   1280   4  4, 30399
+238534756:46:DATA send to 1: seqno: 3, len: 5, clock: 30439, rank: 1024, num_neighbors: 3 
+238773344:63:DATA send to 1: seqno: 3, len: 5, clock: 30487, rank: 1792, num_neighbors: 3 
+238882144:23:DATA send to 1: seqno: 3, len: 5, clock: 30422, rank: 1280, num_neighbors: 3 
+239915399:1:DATA recv from 23:  3   5   30422   1280   3  4, 30627
+239934073:1:DATA recv from 63:  3   5   30487   1792   3  6, 30630
+TEST TIMEOUT
+TEST FAILED
+[if test was run without visualization, Cooja would now have been terminated]
+
